@@ -1,0 +1,7 @@
+.svgIconHoverSaterno svg {
+    cursor: pointer;
+}
+
+.svgIconHoverSaterno svg:hover {
+    fill: #f4a137;
+}

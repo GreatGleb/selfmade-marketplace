@@ -1,0 +1,68 @@
+.modal__block.error {
+  border-radius: 3px;
+  box-shadow: 0 2px 20px 13px rgba(0, 0, 0, 0.2);
+  margin: auto;
+  overflow: auto;
+  position: relative;
+  width: 220px;
+}
+
+.modalBlock .modal__block.error .modalBody {
+    padding: 5px;
+    background-color: #fff;
+    min-height: 30px;
+}
+
+.modal__close.error {
+  width: 1rem;
+}
+
+.modalBlock  .modalHeaderError {
+  background-color: #A83242;
+  width: 220px;
+}
+
+.modalBlock  .modalHeaderError div.title {
+  color: #fff;
+  opacity: .95;
+  padding: 11px;
+}
+
+.modal__block.error.warning {
+	width: 500px;
+}
+
+.modal__block.error.warning .modalHeaderError {
+	width: 500px;
+}
+
+.modal__block.error.warning .modalBody .buttons {
+	display: flex;
+    width: 204px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.modal__block.error.warning .modalBody .buttons .ok,
+.modal__block.error.warning .modalBody .buttons .cancel {
+    width: 86px;
+    border: 1px solid #464646;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 1px 1px 6px 0px #000000cc;
+    cursor: pointer;
+    padding: 2px 10px;
+	transition: all .5s;
+}
+
+.modal__block.error.warning .modalBody .buttons .ok:hover,
+.modal__block.error.warning .modalBody .buttons .cancel:hover {
+    box-shadow: 1px 1px 6px 0px #a83242;	
+    border: 1px solid #a83242;
+	color: #a83242;
+}
+
+.modal__block.error.warning .modalBody .buttons .ok {
+    margin-right: 30px;
+}

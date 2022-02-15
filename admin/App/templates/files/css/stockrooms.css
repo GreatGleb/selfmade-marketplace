@@ -1,0 +1,578 @@
+﻿h2.main-title {
+	padding: 10px;
+}
+
+h3.main-title {
+	padding: 10px;
+}
+
+.admin-block-left a[href='stockrooms'] .list {
+    background-color: darkgray;
+}
+
+.table_stockrooms {	
+    margin: 68px 15px 15px 15px;
+}
+
+.add_new_stockroom {	
+    width: 167px;
+    position: absolute;
+    right: 25px;
+    top: 10px;
+    padding: 4px;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.table_stockrooms select {
+	width: 100%;
+}
+
+.editStockroom, .deleteStockroom {
+	cursor: pointer;
+	min-width: 130px;
+}
+
+.editStockroom:hover svg, .deleteStockroom:hover svg {
+	fill: #A83242;
+}
+
+.editing_stockroom {
+	margin: 15px 30px 30px 30px;
+	background-color: #fff;
+}
+
+.editing_stockroom .field {
+	position: relative;
+	padding: 15px 15px 20px 15px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.editing_stockroom .field.editURL {	
+    padding-bottom: 37px;
+}
+
+.editing_stockroom .field:first-child {
+	border-top: 1px solid black;	
+}
+
+.editing_stockroom .field .input {
+	position: absolute;
+	left: 195px;
+	top: 11px;
+}
+
+.editing_stockroom .field.pvz_list_container .input {
+    position: static;
+}
+
+.editing_stockroom .field.pvz_list_container {
+    display: flex;
+}
+
+.editing_stockroom .field.pvz_list_container ul.pvz_list li {
+    width: 300px;
+}
+
+.editing_stockroom .field.editJurName .input {	
+    top: 23px;
+}
+
+.editing_stockroom .field .input .phones {
+	padding-top: 5px;
+}
+
+.editing_stockroom .field .input .phones:first-child {
+	padding-top: 0;
+}
+
+.editing_stockroom .field input[type="text"],
+.editing_stockroom .field input[type="number"],
+.editing_stockroom .field textarea {
+	height: 30px;
+	width: 750px;
+}
+
+.editing_stockroom .field  textarea {
+    margin-left: 27px;
+}
+
+input[type="radio"] {
+	height: auto!important;
+}
+
+.editing_stockroom .field label {
+    display: inline-block;
+    max-width: 150px;
+	font-weight: 700;
+}
+
+
+.editing_stockroom .field .address-list {
+    list-style: none;
+    margin-left: 120px;
+    position: relative;
+}
+
+.editing_stockroom .field .address-list li input {
+    
+}
+
+.editing_stockroom .field .address-list li {	
+    padding: 10px 10px 13px 10px;
+	position: relative;
+}
+
+.editing_stockroom .field .address-list li .input select {
+	font-size: 16px;
+}
+
+.editing_stockroom .field .address-list li input[type="text"],
+.editing_stockroom .field .address-list li input[type="number"] {	
+    position: absolute;
+    top: -5px;
+    width: 613px;
+}
+
+
+.editing_stockroom .field.editContact > div {
+	flex-direction: column;
+}
+
+.editing_stockroom .field.editContact .input {
+	width: auto;
+}
+
+.editing_stockroom .field.editContact .input div {
+    display: block;
+    position: inherit;
+    margin-left: 0;
+}
+
+.editing_stockroom .field.editContact .input div.number {
+	width: 170px;
+}
+
+.editing_stockroom .field.editContact .input div input {
+	position: inherit;
+    color: #fff;
+    background: #fff;
+    display: inline-block;
+    border: 0;
+    outline: 0;
+    font-size: 13px;
+    padding: 3px 0;
+    margin: 3px 0 0;
+    width: 100%;
+    resize: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.editing_stockroom .field.editContact .input div input:focus,
+.editing_stockroom .field.editContact .input div input.active {
+    border-bottom: 2px solid #e16b6b;
+    color: #000;
+}
+
+.editing_stockroom .field.editContact .input div label {
+	font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 0px;
+	top: 11px;
+    z-index: 1;
+	cursor: text;
+    margin: 0;
+}
+
+.editing_stockroom .field.editContact .input div input:focus ~ label,
+.editing_stockroom .field.editContact .input div label.active {
+    top: -7px;
+	transform: scale(.9);
+}
+
+.editing_stockroom .header {	
+	position: relative;
+	padding: 11px;
+	background-color: #A83242;
+    color: #fff;
+    opacity: .95;
+}
+
+button.close {
+  cursor: pointer;
+  outline: 0;
+}
+
+button.close {
+  background-color: #A83242;
+  border: 0;
+  opacity: .8;
+  position: absolute;
+  top: 12px;
+  right: 1rem;
+  transition: all .2s ease-out;
+  width: 1rem;
+}
+
+button.close svg {
+  fill: #fff;
+}
+
+button.close:hover {
+  opacity: 1;
+}
+
+.save-stockroom {
+    position: absolute;
+    top: 9px; 
+    right: 150px;
+	cursor: pointer;
+}
+
+.reply-stockroom {
+    position: absolute;
+    top: 9px; 
+    right: 83px;
+	cursor: pointer;
+}
+
+.editing_stockroom .editPhoto .input svg {
+	padding-left: 5px;
+}
+
+.editing_stockroom .editPhoto .input svg:hover {
+  fill: #A83242;
+  cursor: pointer;
+}
+
+.modalBlock.addNewTable .modalBody  div label {
+    max-width: 170px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div {
+    width: 405px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody div.title_for_input {
+    padding-top: 5px;
+    font-style: italic;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody div.juridic_name input {
+    bottom: 47px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div input,
+.modalBlock.addNewTable .modal__block .modalBody > div select,
+.modalBlock.addNewTable .modal__block .modalBody > div textarea {
+    height: auto;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div input,
+.modalBlock.addNewTable .modal__block .modalBody > div select {
+    position: absolute;
+    bottom: -2px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div select {
+	width: 223px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div {
+    flex-direction: column;    
+	position: absolute;
+    left: 168px;
+    bottom: 0;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input {
+	width: auto;
+	height: 50px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div {
+	display: block;
+    position: inherit;
+    margin-left: 0;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div.code {
+    width: 90px;
+    margin-right: 15px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div.number {
+    width: 170px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div input {
+    position: absolute;
+	left: 0;
+	bottom: 0;
+    color: #fff;
+    background: #fff;
+    display: inline-block;
+    border: 0;
+    outline: 0;
+    font-size: 13px;
+    padding: 3px 0;
+    margin: 3px 0 0;
+    width: 100%;
+    resize: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 1px solid #e6e6e6;
+	height: 22px;
+}
+	
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div input:focus, 
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div input.active {
+    border-bottom: 2px solid #e16b6b;
+    color: #000;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div label {
+    font-size: 14px;
+    position: absolute;
+    left: 0;
+	bottom: 8px;
+    z-index: 1;
+    cursor: text;
+    margin: 0;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div input:focus ~ label, 
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div label.active {
+    top: 0;
+    transform: scale(.9);
+}
+
+/* Chrome, Safari, Edge, Opera */
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div.number input::-webkit-outer-spin-button,
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div.number input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+/* Firefox */
+.modalBlock.addNewTable .modal__block .modalBody > div.phones > div .input div.number input[type="number"] {
+	-webkit-appearance: none;
+	-moz-appearance: textfield;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone > div,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone > div {
+	flex-direction: column;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input {
+	width: auto;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div {
+    display: block;
+    position: inherit;
+    margin-left: 0;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div.code,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div.code {
+	width: 90px;
+	padding-right: 15px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div.number,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div.number {
+	width: 170px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div input,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div input {
+	position: inherit;
+    color: #fff;
+    background: #fff;
+    display: inline-block;
+    border: 0;
+    outline: 0;
+    font-size: 13px;
+    padding: 3px 0;
+    margin: 3px 0 0;
+    width: 100%;
+    resize: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div input:focus,
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div input.active,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div input:focus,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div input.active {
+    border-bottom: 2px solid #e16b6b;
+    color: #000;
+}
+
+/* Chrome, Safari, Edge, Opera */
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div.number input::-webkit-outer-spin-button,
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div.number input::-webkit-inner-spin-button,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div.number input::-webkit-outer-spin-button,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div.number input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div.number input[type="number"],
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div.number input[type="number"] {
+	-webkit-appearance: none;
+	-moz-appearance: textfield;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div label,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div label {
+	font-size: 14px;
+    position: absolute;
+    left: 0px;
+    z-index: 1;
+	cursor: text;
+    margin: 0;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div input:focus ~ label,
+.modalBlock.addNewTable .modal__block .modalBody > div.add_new_user_phone .input div label.active,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div input:focus ~ label,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_phone .input div label.active {
+    top: 0;
+	transform: scale(.9);
+}
+
+.modalBlock.error.level2 .modal__block  {
+    width: 472px;
+}
+
+.modalBlock.error.level2 .modalHeaderError  {
+    width: auto;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error::after,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error::after,
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error::after,
+.editing_stockroom label[for="shop_name"].error::after,
+.editing_stockroom label[for="shop_url"].error::after {	
+    content: '';
+    position: absolute;
+    z-index: 2;
+    width: 750px;
+    height: 3px;
+    left: 195px;
+    top: 40px;
+    background: #b92929;
+}
+
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error::after,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error::after {
+	width: 223px;
+    left: 182px;
+    top: 34px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error::after {
+	width: 223px;
+    left: 182px;
+    top: 46px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.needMore::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.notAvailble::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.needMore::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.notAvailble::before ,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.falseSimbols::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error.notAvailble::before ,
+.editing_stockroom label[for="shop_name"].error.needMore::before,
+.editing_stockroom label[for="shop_name"].error.notAvailble::before,
+.editing_stockroom label[for="shop_url"].error.needMore::before,
+.editing_stockroom label[for="shop_url"].error.notAvailble::before ,
+.editing_stockroom label[for="shop_url"].error.falseSimbols::before {
+    position: absolute;
+    z-index: 2;
+    width: 223px;
+    height: 3px;
+    left: 195px;
+    font-size: 14px;
+    font-style: italic;
+    top: 42px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.needMore::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.notAvailble::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.needMore::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.notAvailble::before ,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.falseSimbols::before {
+    left: 182px;
+    top: 38px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error.notAvailble::before {
+    left: 182px;
+    top: 50px;
+}
+
+.editing_stockroom label[for="shop_url"].error.falseSimbols::before {
+	width: 750px;
+}
+
+.editing_stockroom label[for="shop_name"].error.needMore::before {
+	content: 'Не меньше 4-х символов';
+}
+
+.editing_stockroom label[for="shop_name"].error.notAvailble::before {
+	content: 'Такой адрес уже занят';
+}
+
+.editing_stockroom label[for="shop_url"].error.falseSimbols::before {
+	content: 'Доступны только буквы латинского алфавита, цифры и знак подчёркивания _';
+}
+
+.editing_stockroom label[for="shop_url"].error.needMore::before {
+	content: 'Не меньше 4-х символов';
+}
+
+.editing_stockroom label[for="shop_url"].error.notAvailble::before {
+	content: 'Такое название уже занято';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.needMore::before {
+	content: 'Не меньше 4-х символов';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.notAvailble::before {
+	content: 'Такой адрес уже занят';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.falseSimbols::before {
+	content: 'Доступны только буквы латинского алфавита, цифры и знак подчёркивания _';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.needMore::before {
+	content: 'Не меньше 4-х символов';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.notAvailble::before {
+	content: 'Такое название уже занято';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error.notAvailble::before {
+	content: 'Такого юридического названия не найдено';
+}

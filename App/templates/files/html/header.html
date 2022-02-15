@@ -1,0 +1,631 @@
+<header id="header" class=" variant typeheader-1">
+	<!-- HEADER TOP -->
+	<div class="header-top compact-hidden">
+		<div class="container">
+			<div class="row">
+				<div class="header-top-left  col-lg-6  hidden-sm col-md-5 hidden-xs">
+					<ul class="list-inlines">
+												
+												<li class="hidden-xs">
+							<div class="welcome-msg"> 
+							
+							<ul class="list-inlines">
+												
+							<li class="hidden-xs" >
+    							<div class="welcome-msg"> 
+    							<ul class="list-msg">
+    							    <li><label class="label-msg">Внимание!</label> <a href="#">Сайт находится на техническом обслуживании</a></li>
+    							    <li><label class="label-msg">Желаем Вам</label> <a href="#">Хорошего дня!</a></li>
+    							    <!--<li><label class="label-msg">Акция</label> <a href="#">Каждый понедельник розыгрыш призов!</a></li>-->
+    							</ul>
+    							</div>
+							</li>
+											</ul>
+							
+							</div>						</li>
+											</ul>
+				</div>
+				<div class="header-top-right collapsed-block col-lg-6 col-sm-12 col-md-7 col-xs-12 ">
+					<h5 class="tabBlockTitle hidden-lg hidden-sm hidden-md hidden-xs">Больше<a class="expander " href="#"><i class="fa fa-angle-down"></i></a></h5>
+					<div class="tabBlock" id="TabBlock-1">
+						<ul class="top-link list-inline">
+							<li class="account" id="my_account"><a href="/account" title="Личный кабинет" class="btn-xs dropdown-toggle" data-toggle="dropdown"> <span>Личный кабинет</span> <span class="fa fa-angle-down"></span></a>
+								<ul class="dropdown-menu ">
+																		<li><a href="/registration"><i class="fa fa-user"></i> Регистрация</a></li>
+									<li><a href="/login"><i class="fa fa-pencil-square-o"></i> Войти</a></li>
+																	</ul>
+							</li>
+							<!-- WISHLIST  -->
+							<li class="wishlist"><a href="https://saterno.ru/index.php?route=account/wishlist" id="wishlist-total" class="btn-link" title="Мои закладки (0)"><span>Мои закладки (0)</span></a></li>							<!-- COMPARE -->
+														<!-- LANGUAGE CURENTY -->
+															<li class="currency"> <div class="btn-group currencies-block">
+							<form action="https://dev.saterno.ru/index.php?route=common/currency/currency" method="post" enctype="multipart/form-data" id="form-currency">
+							  <div class="btn-group">
+								<button class="btn-link dropdown-toggle" data-toggle="dropdown">
+																										 р. Рубль						
+									<i class="fa fa-angle-down"></i>
+								</button>
+								<ul class="dropdown-menu">
+											  <li><button class="currency-select btn-block" type="button" name="EUR">€ Euro</button></li>
+													<li><button class="currency-select btn-block" type="button" name="USD">$ US Dollar</button></li>
+													<li><button class="currency-select btn-block" type="button" name="RUB"> р. Рубль</button></li>
+											</ul>
+							  </div>
+							  <input type="hidden" name="code" value="">
+							  <input type="hidden" name="redirect" value="/home">
+							</form>
+							</div>
+							 </li>
+															<li><div class="btn-group languages-block">
+							<form action="https://dev.saterno.ru/index.php?route=common/language/language" method="post" enctype="multipart/form-data" id="form-language">
+							  <div class="btn-group">
+								<button class="btn-link dropdown-toggle" data-toggle="dropdown">
+													<img src="/App/templates/index_files/ru-ru.png" alt="Russian" title="Russian">
+									<span class="hidden-xs">Russian</span> 
+																	<i class="fa fa-angle-down"></i>
+								</button>
+								
+								<ul class="dropdown-menu">
+										<li><button class="btn-block language-select" type="button" name="ru-ru"><img src="/App/templates/index_files/ru-ru.png" alt="Russian" title="Russian"> Russian</button></li>
+										<li><button class="btn-block language-select" type="button" name="en-gb"><img src="/App/templates/index_files/en-gb.png" alt="English" title="English"> English</button></li>
+									  </ul>
+							  </div>
+							  <input type="hidden" name="code" value="">
+							  <input type="hidden" name="redirect" value="/home">
+							</form>
+							</div>
+							</li>
+														
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- HEADER CENTER -->
+	<div class="header-center">
+		<div class="container">
+			<div class="row">
+				<!-- LOGO -->
+				<div class="navbar-logo col-md-3 col-sm-3 col-xs-10">
+				   						   <a href="/home"><img src="/App/templates/index_files/saternologomain.png" title="Мой Магазин" alt="Мой Магазин"></a>
+			    
+        				</div>
+				<div class="header-center-right col-md-9 col-sm-9 col-xs-2">
+					<!-- BOX CONTENT MENU -->
+					<div class="responsive megamenu-style-dev hienlendi">
+			<nav class="navbar-default">
+	<div class=" container-megamenu  horizontal">
+				<div class="navbar-header">
+			<button type="button" id="show-megamenu" data-toggle="collapse" class="navbar-toggle">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		
+					<div class="megamenu-wrapper">
+		
+							<span id="remove-megamenu" class="fa fa-times"></span>
+			 
+			<div class="megamenu-pattern">
+				<div class="container">
+					<ul class="megamenu" data-transition="slide" data-animationtime="300">
+
+													<li class="home">
+								<a href="/home">
+								<span><strong>Главная</strong></span>								</a>
+							</li>
+						
+						<li class=""><p class="close-menu"></p><a href="/about" class="clearfix">
+											<strong>
+												О нас
+											</strong>
+											 
+										</a></li>
+<li class=""><p class="close-menu"></p><a href="/delivery" class="clearfix">
+											<strong>
+												Доставка и оплата
+											</strong>
+											 
+										</a></li>
+<li class=""><p class="close-menu"></p><a href="/cooperation" class="clearfix">
+											<strong>
+												Поставщикам
+											</strong>
+											 
+										</a></li>
+<li class=""><p class="close-menu"></p><a href="/contacts" class="clearfix">
+											<strong>
+												Контакты
+											</strong>
+											 
+										</a></li>
+					</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+	</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- HEADER BOTTOM -->
+	<div class="header-bottom">
+		<div class="container">
+			<div class="header-bottom-inner">
+				<div class="row">
+					<div class="header-bottom-left menu-vertical col-md-3 col-sm-2 col-xs-2">
+						<div class="responsive megamenu-style-dev ">
+	<div class="cl-padding">		<nav class="navbar-default">
+	<div class=" container-megamenu  vertical ">
+				<div id="menuHeading" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">
+			<div class="megamenuToogle-wrapper hidden-sm hidden-xs">
+				<div class="megamenuToogle-pattern">
+					<div class="container">
+							<div><span></span><span></span><span></span></div>
+							Категории					</div>
+				</div>
+			</div>
+		</div>
+		<div class="navbar-header">
+			<span class="title-navbar hidden-lg hidden-md">Категории</span>
+			<button type="button" id="show-verticalmenu" data-toggle="collapse" class="navbar-toggle">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		
+					<div class="vertical-wrapper" aria-labelledby="menuHeading">
+		
+							<span id="remove-verticalmenu" class="fa fa-times"></span>
+			
+			<div class="megamenu-pattern">
+				<div class="container">
+					<ul class="megamenu" data-transition="slide" data-animationtime="300">
+						<?php foreach($categories as $category) { ?>
+							<li class="item-vertical with-sub-menu hover">
+								<p class="close-menu"></p>
+								<a href="/categories/<?php echo $category->id ?>" class="clearfix">
+									<span>
+										<strong>
+											<?php echo $category->name ?>
+										</strong>
+									</span>
+									<b class="fa fa-angle-right"></b>
+								</a>
+								
+								<div class="sub-menu" data-subwidth="100" style="width: 905px;">
+									<div class="content">
+										<div class="row">
+											<div class="col-sm-9">
+												<div class="categories ">
+													<div class="row">
+														<?php if(sizeof($category->categories) < 3) {
+															foreach($category->categories as $childCategory) {
+																echo '<div class="col-sm-6 static-menu">
+																		<div class="menu">
+																			<ul>
+																				<li>
+																					<a href="/categories/' . $childCategory->id . '" class="main-menu">' . $childCategory->name . '</a>
+																				</li>
+																			</ul>
+																		</div>
+																	</div>';
+															}
+														} else {
+															$sizeCategories = 1 + sizeof($category->categories);
+															$partCategoriesNumb = intval($sizeCategories/3);
+															
+															for($i = 1; $i < 4; $i++) {
+																echo '<div class="col-sm-4 static-menu">
+																		<div class="menu">
+																			<ul>';
+																			    $j = 1;
+																			    $min = ($i-1)*$partCategoriesNumb;
+																			    $max = $i*$partCategoriesNumb + 1;
+																				for(; $j < $sizeCategories; $j++) {
+																				    $delitel = $i;
+																					if($j > $min && $j < $max) {
+																				    	echo '<li>
+																							<a href="/categories/' . $category->categories[$j-1]->id . '" class="main-menu">' . $category->categories[$j-1]->name . '</a>
+																						</li>';
+																					}
+																				}
+																echo '			</ul>
+																		</div>
+																	</div>';
+															}
+														} ?>
+													</div>
+												</div>
+											</div>
+											<div class="col-sm-3">
+												<div class="html ">
+													<div class="row banner">
+														<img src="/App/templates/index_files/categmenuadd.png" alt="Здесь может быть ваша реклама!">
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</li>
+						<?php } ?>
+					</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+	</div></div>
+
+<script type="text/javascript">
+	$(document).ready(function() {
+		var itemver =  10 ;
+		if(itemver <= $( ".vertical ul.megamenu >li" ).length)
+			$('.vertical ul.megamenu').append('<li class="loadmore"><i class="fa fa-plus-square-o"></i><span class="more-view"> Раскрыть категории</span></li>');
+		$('.horizontal ul.megamenu li.loadmore').remove();
+
+		var show_itemver = itemver-1 ;
+		$('ul.megamenu > li.item-vertical').each(function(i){
+			if(i>show_itemver){
+					$(this).css('display', 'none');
+			}
+		});
+		$(".megamenu .loadmore").click(function(){
+			if($(this).hasClass('open')){
+				$('ul.megamenu li.item-vertical').each(function(i){
+						if(i>show_itemver){
+								$(this).slideUp(200);
+								$(this).css('display', 'none');
+						}
+				});
+				$(this).removeClass('open');
+				$('.loadmore').html('<i class="fa fa-plus-square-o"></i><span class="more-view">Раскрыть категории</span>');
+			}else{
+				$('ul.megamenu li.item-vertical').each(function(i){
+						if(i>show_itemver){
+								$(this).slideDown(200);
+						}
+				});
+				$(this).addClass('open');
+				$('.loadmore').html('<i class="fa fa-minus-square-o"></i><span class="more-view">Свернуть категории</span>');
+			}
+		});
+	});
+</script>
+					</div>
+					
+					<div class="header-bottom-right col-md-9 col-sm-10 col-xs-10">
+						<div class="col-lg-9 col-md-8 col-sm-7 col-xs-9 header_search">
+							
+<div id="sosearchpro" class="sosearchpro-wrapper so-search search-pro so-search">
+		<form method="GET" action="https://dev.saterno.ru/index.php">
+	<div id="search0" class="search input-group">
+	    	    <input class="autosearch-input form-control" type="text" value="" size="50" autocomplete="off" placeholder="Я ищу..." name="search"><ul class="dropdown-menu"></ul>
+	    <span class="input-group-btn">
+			<button type="submit" class="button-search btn btn-default btn-lg" name="submit_search"><i class="fa fa-search"></i></button>
+		</span>
+	</div>
+
+
+
+	<input type="hidden" name="route" value="product/search">
+	</form>
+</div>
+<script type="text/javascript">
+// Autocomplete */
+(function($) {
+	$.fn.Soautocomplete = function(option) {
+		return this.each(function() {
+			this.timer = null;
+			this.items = new Array();
+
+			$.extend(this, option);
+
+			$(this).attr('autocomplete', 'off');
+
+			// Focus
+			$(this).on('focus', function() {
+				this.request();
+			});
+
+			// Blur
+			$(this).on('blur', function() {
+				setTimeout(function(object) {
+					object.hide();
+				}, 200, this);
+			});
+
+			// Keydown
+			$(this).on('keydown', function(event) {
+				switch(event.keyCode) {
+					case 27: // escape
+						this.hide();
+						break;
+					default:
+						this.request();
+						break;
+				}
+			});
+
+			// Click
+			this.click = function(event) {
+				event.preventDefault();
+
+				value = $(event.target).parent().attr('data-value');
+
+				if (value && this.items[value]) {
+					this.select(this.items[value]);
+				}
+			}
+
+			// Show
+			this.show = function() {
+				var pos = $(this).position();
+
+				$(this).siblings('ul.dropdown-menu').css({
+					top: pos.top + $(this).outerHeight(),
+					
+				});
+
+				$(this).siblings('ul.dropdown-menu').show();
+			}
+
+			// Hide
+			this.hide = function() {
+				$(this).siblings('ul.dropdown-menu').hide();
+			}
+
+			// Request
+			this.request = function() {
+				clearTimeout(this.timer);
+
+				this.timer = setTimeout(function(object) {
+					object.source($(object).val(), $.proxy(object.response, object));
+				}, 200, this);
+			}
+
+			// Response
+			this.response = function(json) {
+				html = '';
+
+				if (json.length) {
+					for (i = 0; i < json.length; i++) {
+						this.items[json[i]['value']] = json[i];
+					}
+
+					for (i = 0; i < json.length; i++) {
+						if (!json[i]['category']) {
+						html += '<li class="media" data-value="' + json[i]['value'] + '" title="' + json[i]['label'] + '">';
+						if(json[i]['image'] && json[i]['show_image'] && json[i]['show_image'] == 1 ) {
+							html += '	<a class="media-left" href="' + json[i]['link'] + '"><img class="pull-left" src="' + json[i]['image'] + '"></a>';
+						}
+
+						html += '<div class="media-body">';
+						html += '<a href="' + json[i]['link'] + '" title="' + json[i]['label'] + '"><span>' +json[i]['cate_name'] + json[i]['label'] + '</span></a>';
+						if(json[i]['price'] && json[i]['show_price'] && json[i]['show_price'] == 1){
+							html += '	<div class="price clearfix">';
+							if (!json[i]['special']) {
+								html += '<span class="price-new">'+json[i]['price']+'</span>';;
+							} else {
+								html += '<span class="price-new">' + json[i]['special'] + '</span> <span class="price-old" style="text-decoration:line-through;">' + json[i]['price'] + '</span>';
+							}
+							if (json[i]['tax']) {
+								html += '<span class="price-tax hidden">Налог : ' + json[i]['tax'] + '</span>';
+							}
+							html += '	</div>';
+						}
+						html += '</div></li>';
+						html += '<li class="clearfix"></li>';
+						}
+					}
+
+					// Get all the ones with a categories
+					var category = new Array();
+
+					for (i = 0; i < json.length; i++) {
+						if (json[i]['category']) {
+							if (!category[json[i]['category']]) {
+								category[json[i]['category']] = new Array();
+								category[json[i]['category']]['name'] = json[i]['category'];
+								category[json[i]['category']]['item'] = new Array();
+							}
+
+							category[json[i]['category']]['item'].push(json[i]);
+						}
+					}
+
+					for (i in category) {
+						html += '<li class="dropdown-header">' + category[i]['name'] + '</li>';
+
+						for (j = 0; j < category[i]['item'].length; j++) {
+							html += '<li data-value="' + category[i]['item'][j]['value'] + '"><a href="#">&nbsp;&nbsp;&nbsp;' + category[i]['item'][j]['label'] + '</a></li>';
+						}
+					}
+				}
+
+				if (html) {
+					this.show();
+				} else {
+					this.hide();
+				}
+
+				$(this).siblings('ul.dropdown-menu').html(html);
+			}
+
+			$(this).after('<ul class="dropdown-menu"></ul>');
+
+		});
+	}
+})(window.jQuery);
+
+$(document).ready(function() {
+	var selector = '#search0';
+	var total = 0;
+	var showimage = 1;
+	var showprice = 1;
+	var character = 3;
+	var height = 60;
+	var width = 60;
+
+	$(selector).find('input[name=\'search\']').Soautocomplete({
+		delay: 500,
+		source: function(request, response) {
+			var category_id = $(".select_category select[name=\"category_id\"]").first().val();
+			if(typeof(category_id) == 'undefined')
+				category_id = 0;
+			var limit = 5;
+			if(request.length >= character){
+				$.ajax({
+					url: 'index.php?route=extension/module/so_searchpro/autocomplete&filter_category_id='+category_id+'&limit='+limit+'&width='+width+'&height='+height+'&filter_name='+encodeURIComponent(request),
+					dataType: 'json',
+					success: function(json) {
+						response($.map(json, function(item) {
+							total = 0;
+							if(item.total){
+								total = item.total;
+							}
+
+							return {
+								price:   item.price,
+								special: item.special,
+								tax:     item.tax,
+								label:   item.name,
+								cate_name:   (item.category_name) ? item.category_name + ' > ' : '',
+								image:   item.image,
+								link:    item.link,
+								minimum:    item.minimum,
+								show_price:  showprice,
+								show_image:  showimage,
+								value:   item.product_id,
+							}
+						}));
+					}
+				});
+			}
+		},
+	});
+});
+
+</script>
+						</div>
+						<div class="block-cart">
+							<div class="shopping_cart pull-right">
+							    <?php 
+                                        $isCartEmpty = 1;
+                                        if($_SESSION['buyCart']->boughtProducts != NULL) {
+                                            if(sizeof($_SESSION['buyCart']->boughtProducts) > 0) {
+                                                $isCartEmpty = 0;
+                                                
+                                                $numberOfAllBoughtGoods = 0;
+                                                $costOfAllBoughtGoods = 0;
+                                                
+                                                foreach($_SESSION['buyCart']->boughtProducts as $boughtProduct) {
+                                                    $numberOfAllBoughtGoods += $boughtProduct->number;
+                                                    $costOfAllBoughtGoods += $boughtProduct->actualPrice;
+                                                }
+                                            }
+                                        }
+                                                                        ?>
+    <?php if($isCartEmpty == 0) { ?>
+		 <div class="quick-panel__num"><?php echo $numberOfAllBoughtGoods; ?></div>
+	<?php } ?>
+<div id="cart" class="btn-shopping-cart">
+  <a data-loading-text="Загрузка..." class="btn-group top_cart dropdown-toggle toggleModal1" data-toggle="dropdown">
+    <div class="shopcart">
+    <span class="handle pull-left"></span>
+		<span class="text-shopping-cart hidden-xs">
+       Корзина    </span>
+    <span class="text-shopping-cart-home5 hidden ">
+       Купить сейчас    </span>
+    <span class="text-shopping-cart-mobi hidden-lg hidden-md hidden-sm ">
+      <i class="fa fa-cart-plus"></i>
+    </span> 
+		<span class="total-shopping-cart cart-total-full">
+			 0 товар(ов) - 0.00 р.		</span>
+    </div>
+  </a>
+
+<div class="dropdown-menu pull-right shoppingcart-box dropdownBuyCart" style="
+   padding: 20px 20px 20px;
+   line-height: 1;
+   display: flex;
+   border-radius: 0 0 7px 7px;
+   cursor: initial;
+   ">
+    <?php if($isCartEmpty == 0) { ?>
+                <div style="
+                  margin-left: 20px;
+                  color: #000;
+                  font-weight: 400;
+                  font-size: 15px;
+                  ">
+                    <p>Товаров в корзине: <span class="number-of-goods"><?php echo $numberOfAllBoughtGoods; ?></span></p>
+                    <p>На сумму <span class="cost-of-goods"><?php echo $costOfAllBoughtGoods ?></span> руб</p>
+                    <a href="/checkout">
+                        <div class="button-order-buy-cart">
+                            Оформить заказ
+                        </div>
+                    </a>
+                    <p style="
+                        font-size: 16px;
+                        margin-left: 73px;
+                        margin-top: 20px;
+                        cursor: pointer;
+                        text-align: center;
+                    " class="goToBuyCart toggleModal1">
+                        Перейти в корзину
+                    </p>
+               </div>
+    <?php   }
+        if($isCartEmpty == 1) { ?>
+    
+   <svg height="45" width="45" style="fill: #f4a137;">
+      <svg viewBox="0 0 24 24" id="icon-basket">
+         <g>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M1 2C0.447715 2 0 2.44772 0 3C0 3.55228 0.447715 4 1 4H2.68121C3.08124 4 3.44277 4.2384 3.60035 4.60608L8.44161 15.9023C9.00044 17.2063 10.3963 17.9405 11.7874 17.6623L19.058 16.2082C20.1137 15.9971 20.9753 15.2365 21.3157 14.2151L23.0712 8.94868C23.7187 7.00609 22.2728 5 20.2251 5H5.94511L5.43864 3.81824C4.96591 2.71519 3.88129 2 2.68121 2H1ZM10.2799 15.1145L6.80225 7H20.2251C20.9077 7 21.3897 7.6687 21.1738 8.31623L19.4183 13.5827C19.3049 13.9231 19.0177 14.1767 18.6658 14.247L11.3952 15.7012C10.9315 15.7939 10.4662 15.5492 10.2799 15.1145Z"></path>
+            <path d="M11 22C11 23.1046 10.1046 24 9 24C7.89543 24 7 23.1046 7 22C7 20.8954 7.89543 20 9 20C10.1046 20 11 20.8954 11 22Z"></path>
+            <path d="M21 22C21 23.1046 20.1046 24 19 24C17.8954 24 17 23.1046 17 22C17 20.8954 17.8954 20 19 20C20.1046 20 21 20.8954 21 22Z"></path>
+         </g>
+      </svg>
+   </svg>
+   <div style="
+      margin-left: 20px;
+      ">
+      <p style="
+         font-size: 18px;
+         color: #000;
+         font-weight: 400;
+         ">Ваша корзина пуста</p>
+      <p style="
+         font-size: 14px;
+         ">Добавляйте понравившиеся товары в корзину</p>
+   </div>
+    
+    <?php } ?>
+</div>
+</div>
+							</div>
+						</div>
+						<div class="header_custom_link hidden-xs">
+							<ul>
+																<li><a href="javascript:void(0)" data-href="account/login"><i class="fa fa-user"></i> Войти</a></li>
+															</ul>	
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	  
+	</div>
+	
+	<!-- Navbar switcher -->
+	</header>

@@ -1,0 +1,55 @@
+.admin-block-left a[href='account'] .list {
+    background-color: darkgray;
+}
+
+form.accountForm {
+    max-width: 340px;
+    margin-left: 35px;
+    background-color: #fff;
+    padding: 7px 25px 7px 7px;
+}
+
+form.accountForm  div {
+	position: relative;
+}
+
+form.accountForm  img.avatar {
+	width: 200px;
+	height: 200px;
+}
+
+form.accountForm  svg.iconEdit, form.accountForm  img.iconEdit {
+    position: absolute;
+    right: -18px;
+    bottom: 5px;
+	width: 14px;
+	height: 14px;
+}
+
+form.accountForm  svg.iconEdit:hover, form.accountForm  img.iconEdit:hover {
+  fill: #A83242;
+}
+
+form.accountForm  h3 {
+	display: inline;
+}
+
+form.accountForm  input {
+    width: 205px!important;
+}
+
+form.accountForm .login  h3 {
+    display: block;	
+    width: 205px!important;
+	overflow-x: hidden; 
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+form.accountForm  span.email {
+    color: #414142;
+    font-style: italic;
+	display: block;
+    width: 205px!important;
+	overflow-x: hidden; 
+}

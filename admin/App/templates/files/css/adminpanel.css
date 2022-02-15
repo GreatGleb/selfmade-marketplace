@@ -1,0 +1,196 @@
+body {
+	background-color: #d6d6d6;
+}
+
+.admin-block-top {
+	position: absolute;
+	display: flex;
+	top: 0;
+	width: 100%;
+	height: 50px;
+	background-color: #A83242; /* #ad2435; * #f42a43 */
+}
+
+.push {
+    margin-left: auto;
+}
+
+.admin-block-top .header {
+	font-size: 22px;
+    margin-left: 18px;
+    margin-top: 9px;
+	color: #fff;
+	opacity: 0.85;
+}
+
+.admin-block-top .threeLines {
+    margin-left: 28px;
+    margin-top: 15px;
+	cursor: pointer;
+}
+
+.admin-block-top .threeLines div {
+	width: 15px;
+	height: 2px;
+    margin-bottom: 2px;
+	background-color: #fff;
+	opacity: 0.95;
+}
+
+.admin-block-top .icon {
+    margin-top: 5px;
+    margin-right: 6px;
+}
+
+.admin-block-top .icon img {
+	width: 36px;
+	height: 36px;
+	border-radius: 50px;	
+    background-color: #fff;
+}
+
+.admin-block-top .name {
+    margin-top: 15px;
+    margin-right: 6px;
+	color: #fff;
+	opacity: 0.85;
+}
+
+.admin-block-top .exit {
+    margin-top: 15px;
+    margin-right: 6px;
+}
+
+.admin-block-top .exit a {
+	color: #fff;
+	opacity: 0.95;
+	text-decoration: none;
+}
+
+.admin-block-top .exit a:hover {
+	opacity: 1;
+    transition: all 0.5s ease;
+}
+
+.admin-block-left {
+	position: absolute;
+	left: 0;
+	top: 50px;
+	width: 200px;
+	height: -moz-calc(100% - 50px);
+    height: -webkit-calc(100% - 50px);
+    height: calc(100% - 50px);
+	background-color: #fff;
+	z-index: 1;
+}
+
+.admin-block-left .profile {
+	display: flex;
+    margin-top: 5px;
+    margin-left: 5px;	
+    margin-bottom: 5px;
+}
+
+.admin-block-left .profile img {
+	width: 47px;
+	height: 47px;
+	border-radius: 50px;
+    background-color: #fff;
+}
+
+.admin-block-left .profile .names {
+	margin-left: 10px;	
+    margin-top: 9px;
+	font-size: 14px;
+    width: 138px;
+	overflow-x: hidden; 	
+}
+
+.admin-block-left .profile .names .email {
+    color: #414142;
+    font-style: italic;
+}
+
+.hiddenLeft {
+	left: -100%;
+    transition: all 0.5s ease;	
+}
+
+.addRight {
+	left: 0;
+    transition: all 0.5s ease;	
+}
+
+.admin-block-left .list {
+    position: relative;
+	display: flex;
+	padding-top: 10px;
+	padding-left: 10px;
+    padding-bottom: 10px;
+	cursor: pointer;
+	color: #000;
+	font-weight: bold;
+}
+
+.admin-block-left .list:hover {
+	background-color: #ababab;
+}
+
+.admin-block-left .list a {
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.arrowDown {
+	border-top: solid black 2px;
+	border-left: solid black 2px;
+	height: 9px;
+	width: 9px;	
+    transform: rotate(-136deg);
+}
+
+.admin-block-left .list .arrowDown {
+    position: absolute;
+    right: 25px;
+	margin-top: 1px;
+}
+
+.admin-block-left .list .arrowDown.toTop {
+	margin-top: 5px;
+    transform: rotate(45deg);
+}
+
+.admin-block-left > .listDown .list {
+    padding-left: 20px;
+    list-style-type: none;	
+}
+
+.admin-block-left > .listDown > .listDown .list {
+    padding-left: 40px;
+    list-style-type: none;	
+}
+
+.opened {
+	display: list-item;
+}
+
+.closed {
+	display: none;
+}
+
+.mainHtmlContent {
+	position: absolute;
+	left: 200px;
+	top: 50px;
+	width: -webkit-calc(100% - 200px);
+	width: -moz-calc(100% - 200px);
+	width: calc(100% - 200px);
+    transition: all 0.5s ease;	
+}
+
+.mainHtmlContent.htmlContenToLeft {
+	left: 0;
+    transition: all 0.5s ease;
+	width: 100%;
+}

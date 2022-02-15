@@ -1,0 +1,137 @@
+ul {
+	list-style-type: none;
+}
+* {
+	box-sizing: border-box;
+}
+.container {
+  margin: 10px 20px 10px 20px;
+  max-width: 440px;
+}
+
+.custom-select-wrapper {
+  position: relative;
+  user-select: none;
+  width: 100%;
+}
+
+.custom-dropdown-select {
+  display: flex;
+  flex-direction: column;
+  border-width: 0 2px 0 2px;
+  border-style: solid;
+  border-color: #000;
+	border-radius: 6px 6px 6px 6px;
+}
+
+.custom-dropdown-select.open {
+	border-radius: 6px 6px 0 0;
+}
+
+.custom-select__trigger {
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 5px 0 15px;
+	font-size: 15px;
+	font-weight: 300;
+	color: #3b3b3b;
+	height: 25px;
+	line-height: 25px;
+	background: #ffffff;
+	cursor: pointer;
+	border-width: 2px 0 2px 0;
+	border-style: solid;
+	border-color: #000;
+	border-radius: 6px 6px 6px 6px;
+}
+.custom-dropdown-select.open .custom-select__trigger {
+	border-radius: 6px 6px 0 0;
+}
+
+.custom-options {
+  position: absolute;
+  display: block;
+  top: 100%;
+  left: 0;
+  right: 0;
+  border: 2px solid #000;
+  border-top: 0;
+	border-radius: 0px 0px 6px 6px;
+  background: #fff;
+  transition: all 0.5s;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  z-index: 2;
+	max-height: 317px;
+	overflow-y: auto;
+	width: 100%;
+}
+
+.custom-dropdown-select.open .custom-options {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: all;
+}
+
+.custom-option {
+	position: relative;
+	display: block;
+	padding: 5px 10px 3px 22px;
+	font-size: 15px;
+	font-weight: 300;
+	color: #3b3b3b;
+	line-height: 20px;
+	cursor: pointer;
+	transition: all 0.5s;
+}
+
+.custom-option:hover {
+  cursor: pointer;
+  background-color: #ffca58;
+}
+
+.custom-option.selected {
+  color: #ffffff;
+	background-color: #f7c75f;
+}
+
+.arrow {
+  position: relative;
+  height: 10px;
+  width: 10px;
+}
+
+.arrow::before,
+.arrow::after {
+  content: "";
+  position: absolute;
+  bottom: 0px;
+  width: 2px;
+  height: 100%;
+  transition: all 0.5s;
+}
+
+.arrow::before {
+  left: -1px;
+  transform: rotate(45deg);
+  background-color: #000;
+}
+
+.arrow::after {
+  left: 5px;
+  transform: rotate(-45deg);
+  background-color: #000;
+}
+
+.open .arrow::before {
+  left: -1px;
+  transform: rotate(-45deg);
+}
+
+.open .arrow::after {
+  left: 5px;
+  transform: rotate(45deg);
+}

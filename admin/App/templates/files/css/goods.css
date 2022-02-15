@@ -1,0 +1,955 @@
+﻿h2.main-title {
+	padding: 10px;
+}
+
+h3.main-title {
+	padding: 10px;
+}
+
+.admin-block-left a[href='goods'] .list {
+    background-color: darkgray;
+}
+
+.table_goods {	
+    margin: 68px 15px 15px 15px;
+}
+
+.add_new_good {	
+    width: 167px;
+    position: absolute;
+    right: 25px;
+    top: 10px;
+    padding: 4px;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.table_goods select {
+	width: 100%;
+}
+
+.editGood, .deleteGood {
+	cursor: pointer;
+	min-width: 130px;	
+    margin-top: 9px;
+}
+
+.editGood:hover svg, .deleteGood:hover svg {
+	fill: #A83242;
+}
+
+.editing_good {
+	margin: 15px 30px 30px 30px;
+	background-color: #fff;
+}
+
+.editing_good .field {
+	position: relative;
+	padding: 15px 15px 20px 15px;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+.editing_good .field.editURL {	
+    padding-bottom: 37px;
+}
+
+.editing_good .field:first-child {
+	border-top: 1px solid black;	
+}
+
+.editing_good .field .input {
+	position: absolute;
+	left: 195px;
+	top: 11px;
+}
+
+.editing_good .field.editJurName .input {	
+    top: 23px;
+}
+
+.editing_good .field input[type="text"],
+.editing_good .field input[type="number"],
+.editing_good .field textarea {
+	height: 30px;
+	width: 750px;
+}
+
+input[type="radio"] {
+	height: auto!important;
+}
+
+.editing_good .field label {
+    display: inline-block;
+    max-width: 150px;
+	font-weight: 700;
+}
+
+
+.editing_good .field .address-list {
+    list-style: none;
+    margin-left: 120px;
+    position: relative;
+}
+
+.editing_good .field .address-list li input {
+    
+}
+
+.editing_good .field .address-list li {	
+    padding: 10px 10px 13px 10px;
+	position: relative;
+}
+
+.editing_good .field .address-list li .input select {
+	font-size: 16px;
+}
+
+.editing_good .field .address-list li input[type="text"],
+.editing_good .field .address-list li input[type="number"] {	
+    position: absolute;
+    top: -5px;
+    width: 613px;
+}
+
+
+.editing_good .field.editContact > div {
+	flex-direction: column;
+}
+
+.editing_good .field.editContact .input {
+	width: auto;
+}
+
+.editing_good .field.editContact .input div {
+    display: block;
+    position: inherit;
+    margin-left: 0;
+}
+
+.editing_good .field.editContact .input div.number {
+	width: 170px;
+}
+
+.editing_good .field.editContact .input div input {
+	position: inherit;
+    color: #fff;
+    background: #fff;
+    display: inline-block;
+    border: 0;
+    outline: 0;
+    font-size: 13px;
+    padding: 3px 0;
+    margin: 3px 0 0;
+    width: 100%;
+    resize: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.editing_good .field.editContact .input div input:focus,
+.editing_good .field.editContact .input div input.active {
+    border-bottom: 2px solid #e16b6b;
+    color: #000;
+}
+
+.editing_good .field.editContact .input div label {
+	font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    left: 0px;
+	top: 11px;
+    z-index: 1;
+	cursor: text;
+    margin: 0;
+}
+
+.editing_good .field.editContact .input div input:focus ~ label,
+.editing_good .field.editContact .input div label.active {
+    top: -7px;
+	transform: scale(.9);
+}
+
+.editing_good .header {	
+	position: relative;
+	padding: 11px;
+	background-color: #A83242;
+    color: #fff;
+}
+
+button.close {
+  cursor: pointer;
+  outline: 0;
+}
+
+button.close {
+  background-color: #A83242;
+  border: 0;
+  opacity: .8;
+  position: absolute;
+  top: 12px;
+  right: 1rem;
+  transition: all .2s ease-out;
+  width: 1rem;
+}
+
+button.close svg {
+  fill: #fff;
+}
+
+button.close:hover {
+  opacity: 1;
+}
+
+.save-good {
+    position: absolute;
+    top: 9px; 
+    right: 150px;
+	cursor: pointer;
+}
+
+.reply-good {
+    position: absolute;
+    top: 9px; 
+    right: 83px;
+	cursor: pointer;
+}
+
+.editing_good .editPhoto .input > div {
+	position: relative;
+}
+
+.editing_good .field.editPhoto .input img {
+    margin-right: 5px;	
+    cursor: grab;
+}
+
+.editing_good .editPhoto .input > div .buttonDeleteImg {
+	position: absolute;
+    top: -4px;
+    left: 34px;
+    width: 18px;
+    height: 18px;
+    background-color: #676767;
+    border-radius: 20px;
+    z-index: 93;	
+    cursor: pointer;
+}
+
+.editing_good .editPhoto .input > div .buttonDeleteImg::before {	
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 2px;
+    background: #fff;
+    transform: rotate(135deg);
+    top: 8px;
+    left: 4px;
+}
+
+.editing_good .editPhoto .input > div .buttonDeleteImg::after {	
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 2px;
+    background: #fff;
+    transform: rotate(45deg);
+    top: 8px;
+    left: 4px;
+}
+
+.editing_good .editPhoto .input svg {
+	padding-left: 5px;
+	position: absolute;
+	top: 30px;
+}
+
+.editing_good .editPhoto .input svg:hover {
+  fill: #A83242;
+  cursor: pointer;
+}
+
+.hoverForSelect {
+    border: 0!important;
+    cursor: auto!important;	
+}
+
+.hoverForSelect.notSelect .shadow {
+    width: 0!important;	
+}
+
+.hoverForSelect.notSelect .before1 {
+    width: 0!important;	
+}
+
+.hoverForSelect.notSelect .before2 {
+    width: 0!important;	
+}
+
+.hoverForSelect.notSelect .after1 {
+    width: 0!important;	
+}
+
+.hoverForSelect.notSelect .after2 {
+    width: 0!important;	
+}
+
+.imageCart .selectImages {
+	cursor: pointer;
+}
+
+.editing_good .editPrice {
+    padding-bottom: 57px;
+}
+
+.editing_good .editPrice #good_seller_price {
+    width: 622px;
+}
+
+.editing_good .editPrice .good_system_price {
+    margin-left: 17px;
+}
+
+.editing_good .editQuentity {
+    padding-bottom: 57px;
+}
+
+.editing_good .editQuentity #good_all_quentity {
+    width: 655px;
+    margin-left: 45px;
+}
+
+.editing_good .editQuentity #good_sold_quentity {
+    width: 655px;
+}
+
+.editing_good .editInStock {
+    padding-bottom: 38px;
+}
+
+.editing_good .editInStock .isShow {
+    padding-bottom: 4px;
+}
+
+.editing_good .editSize {
+    padding-bottom: 120px;
+}
+
+.editing_good .editSize input {
+    width: 671px!important;
+}
+
+.editing_good .editSize input#good_length {
+    margin-left: 20px;
+}
+
+.editing_good .editSize input#good_width {
+    margin-left: 7px;
+}
+
+.editing_good .editSize input#good_height {
+    margin-left: 11px;
+}
+
+.editing_good .editCategories {
+    padding-bottom: 63px;
+}
+
+.editing_good .editCategories .main_category svg {
+    position: absolute;
+    left: 210px;
+}
+
+.editing_good .editCategories .input > svg {
+	position: absolute;
+    left: 188px;
+}
+
+.editing_good .editCategories ul svg {
+    position: absolute;
+}
+
+.editing_good .editCategories svg:hover {
+  fill: #A83242;
+  cursor: pointer;
+}
+
+.editing_good .editCategories .input label { 
+    display: inline;
+}
+
+.editing_good .editCategories .input .main_category {
+    padding-top: 7px;
+    padding-left: 30px;
+}
+
+.editing_good .editCategories .input ul {
+    list-style-type: none;
+    padding-top: 7px;
+    padding-left: 30px;
+}
+
+.editing_good .editAtributes {	
+    padding-bottom: 35px;
+}
+
+.editing_good .editAtributes svg:hover {
+  fill: #A83242;
+  cursor: pointer;
+}
+
+.editing_good .editAtributes .input > div input {
+    width: 150px;
+}
+
+.editing_good .editAtributes .input > div.atribut {
+	position: relative;
+}
+
+.editing_good .editAtributes .input > div.atribut .add-icon {
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 12px;
+    cursor: pointer;
+	transition: all .5s;
+}
+
+.editing_good .editAtributes .input > div.atribut .add-icon:hover {
+	color: #A83242;
+	border: 2px solid #A83242;
+}
+
+.editing_good .editAtributes .input > div.atribut .add-icon.notAddingIcon {
+	cursor: default;
+}
+
+.editing_good .editAtributes .input > div.atribut .add-icon.notAddingIcon:hover {
+	color: #000;
+	border: 2px solid #000;
+}
+
+.editing_good .editAtributes .input > div.atribut > svg.deleteAtribute {
+    position: absolute;
+    left: -20px;
+    top: 9px;
+}
+
+.editing_good .editAtributes .input > div.atribut .values {
+	display: inline-flex;
+    flex-direction: column;
+}
+
+.editing_good .editAtributes .input > div.atribut .values input {
+	margin-bottom: 10px;
+}
+
+.editing_good .editAtributes .input > div:not([class]) {
+	display: inline-block;
+}
+
+.editing_good .editAtributes .input > div:not([class]):nth-child(2) {
+	margin-left: 90px;
+}
+
+.editing_good .editAtributes .input > div.atribut .values > div {
+    position: relative;
+}
+
+.editing_good .editAtributes .input > div.atribut .values > div svg.deleteAtribute {
+    position: absolute;
+    left: 300px;
+    top: 6px;
+}
+
+.editing_good .editAtributes .input > div.atribut .values > div svg.editIconAtribute {
+    position: absolute;
+    left: 200px;
+    top: 14px;
+}
+
+.editing_good .editAtributes .input > div.atribut .values > div .add-icon {
+    position: absolute;
+    left: 157px;
+    display: block;
+    width: 138.19px;
+    top: 0px;
+}
+
+.editing_good .editDisconts {	
+    padding-bottom: 935px;
+}
+
+.editing_good .editDisconts svg:hover {
+  fill: #A83242;
+  cursor: pointer;
+}
+
+.editing_good .editDisconts .input > div input {
+    width: 150px;
+}
+
+.editing_good .editDisconts .input > div.discont {
+	position: relative;
+	margin-bottom: 12px;
+}
+
+.editing_good .editDisconts .input > div.discont .add-icon {
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 12px;
+    cursor: pointer;
+	transition: all .5s;
+}
+
+.editing_good .editDisconts .input > div.discont .add-icon:hover {
+	color: #A83242;
+	border: 2px solid #A83242;
+}
+
+.editing_good .editDisconts .input > div:not([class]) {
+	display: inline-block;
+}
+
+.editing_good .editDisconts .input > div:not([class]):nth-child(2),
+.editing_good .editDisconts .input > div:not([class]):nth-child(3) {
+	margin-left: 90px;
+}
+
+.editing_good .editDisconts .input > div input {
+    width: 150px;
+}
+
+.editing_good .editDisconts .input .discont .date {
+    display: inline-block;
+	position: absolute;
+	width: -moz-available;
+    width: -webkit-fill-available;
+    width: fill-available;
+}
+
+.editing_good .editDisconts .input .discont .date svg:not([class]) {
+	position: absolute;
+    top: 14px;
+    left: 121px;
+}
+
+.editing_good .editDisconts .input .discont .date.first {
+    left: 180px;
+    top: 5px;
+}
+
+.editing_good .editDisconts .input .discont .date.second {
+    left: 370px;
+    top: 5px;
+}
+
+.editing_good .editDisconts .input .discont .deleteDiscont {	
+    position: absolute;
+    left: -18px;
+    top: 6px;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar {
+	position: absolute;
+    top: 41px;
+    left: 0px;
+	width: 0;
+	transform: scale(1, 0);
+	transition: all .5s;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar .month-switcher {
+    font-size: 7px;
+	transition: all .5s;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar .month-switcher button {
+    padding: 0;
+    width: 0;
+    height: 0;
+	transition: all.5s;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar .month-switcher button.prev:after,
+.editing_good .editDisconts .input .discont .date .calendar .month-switcher button.next:after {	
+    width: 0;
+    height: 0;
+	transition: all.5s;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar .days {	
+    font-size: 7px;
+	height: 0;
+	transition: all .5s;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar .dates button {	
+    font-size: 7px;
+    height: 0;
+	transition: all .5s;
+    position: relative;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar .dates button:hover {
+	background: none;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar .dates button.focus,
+.editing_good .editDisconts .input .discont .date .calendar .dates button:focus {
+	background: none;
+	color: #fff;
+	font-weight: 600;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar .dates button:hover:after {
+    content: '';
+    height: 29px;
+    width: 29px;
+    border-radius: 50px;
+    position: absolute;
+    left: 0;
+    top: -5px;
+    background: #cccccc;
+    z-index: -1;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar .dates button.focus:after,
+.editing_good .editDisconts .input .discont .date .calendar .dates button:focus:after {
+    content: '';
+    box-shadow: inset 0px 0px 0px 2px #0a3d62;
+    height: 29px;
+    width: 29px;
+    border-radius: 50px;
+    position: absolute;
+    left: 0;
+    top: -5px;
+	background: #0a3d62;
+    z-index: -1;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar.open {
+	transform: scale(1, 1);
+    left: -141px;
+	width: auto;
+    z-index: 1;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar.open .month-switcher {
+    font-size: 20px;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar.open  .month-switcher button {
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar.open .month-switcher button.prev:after,
+.editing_good .editDisconts .input .discont .date .calendar.open .month-switcher button.next:after {	
+    width: 10px;
+    height: 10px;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar.open .days {
+    font-size: 16px;
+	height: auto;
+}
+
+.editing_good .editDisconts .input .discont .date .calendar.open .dates button {
+	font-size: 16px;
+    height: 20px;
+}
+
+.modalBlock.addNewTable .modalBody  div label {
+    max-width: 170px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div {
+    width: 405px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody div.title_for_input {
+    padding-top: 5px;
+    font-style: italic;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div input,
+.modalBlock.addNewTable .modal__block .modalBody > div select,
+.modalBlock.addNewTable .modal__block .modalBody > div textarea {
+    height: auto;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div input,
+.modalBlock.addNewTable .modal__block .modalBody > div select {
+    position: absolute;
+    bottom: -2px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div select {
+	width: 223px;
+}
+
+.modalBlock.error.level2 .modal__block  {
+    width: 472px;
+}
+
+.modalBlock.error.level2 .modalHeaderError  {
+    width: auto;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div .column {
+	display: flex;
+	flex-direction: column;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div .column > div {
+	position: relative;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.quentity .column > div input,
+.modalBlock.addNewTable .modal__block .modalBody > div.size .column > div input,
+.modalBlock.addNewTable .modal__block .modalBody > div .column > div input#newGood_seller_price {
+	width: 168px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody div.juridic_name input {
+    bottom: 47px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.inStock .isShow {	
+    width: 50px;
+    margin-left: 13px;
+    margin-right: 30px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.inStock .switch {
+    position: absolute;
+    left: 90px;
+    top: 24px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.size label {
+	margin-left: 20px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.goodWeight label span,
+.modalBlock.addNewTable .modal__block .modalBody > div.size label span {
+	font-size: 10px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.categories > div {
+	margin-left: 10px;
+}
+
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes {	
+    padding-bottom: 35px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes svg:hover {
+  fill: #A83242;
+  cursor: pointer;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div input {
+    width: 150px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut {
+	position: relative;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .add-icon {
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 12px;
+    cursor: pointer;
+	transition: all .5s;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .add-icon:hover {
+	color: #A83242;
+	border: 2px solid #A83242;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .add-icon.notAddingIcon {
+	cursor: default;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .add-icon.notAddingIcon:hover {
+	color: #000;
+	border: 2px solid #000;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut > svg.deleteAtribute {
+    position: absolute;
+    left: -20px;
+    top: 9px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .values {
+	display: inline-flex;
+    flex-direction: column;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .values input {
+	margin-bottom: 10px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div:not([class]) {
+	display: inline-block;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div:not([class]):nth-child(2) {
+	margin-left: 90px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .values > div {
+    position: relative;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .values > div svg.deleteAtribute {
+    position: absolute;
+    left: 300px;
+    top: 6px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .values > div svg.editIconAtribute {
+    position: absolute;
+    left: 200px;
+    top: 14px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input > div.atribut .values > div .add-icon {
+    position: absolute;
+    left: 157px;
+    display: block;
+    width: 138.19px;
+    top: 0px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.atributes .input div {
+	display: block;
+	width: auto;	
+    position: auto;
+    padding-top: auto;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error::after,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error::after,
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error::after,
+.editing_good label[for="shop_name"].error::after,
+.editing_good label[for="good_url"].error::after {	
+    content: '';
+    position: absolute;
+    z-index: 2;
+    width: 750px;
+    height: 3px;
+    left: 195px;
+    top: 40px;
+    background: #b92929;
+}
+
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error::after,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error::after {
+	width: 223px;
+    left: 182px;
+    top: 34px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error::after {
+	width: 223px;
+    left: 182px;
+    top: 46px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.needMore::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.notAvailble::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.needMore::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.notAvailble::before ,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.falseSimbols::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error.notAvailble::before ,
+.editing_good label[for="shop_name"].error.needMore::before,
+.editing_good label[for="shop_name"].error.notAvailble::before,
+.editing_good label[for="good_url"].error.needMore::before,
+.editing_good label[for="good_url"].error.notAvailble::before ,
+.editing_good label[for="good_url"].error.falseSimbols::before {
+    position: absolute;
+    z-index: 2;
+    width: 223px;
+    height: 3px;
+    left: 195px;
+    font-size: 14px;
+    font-style: italic;
+    top: 42px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.needMore::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.notAvailble::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.needMore::before,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.notAvailble::before ,
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.falseSimbols::before {
+    left: 182px;
+    top: 38px;
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error.notAvailble::before {
+    left: 182px;
+    top: 50px;
+}
+
+.editing_good label[for="good_url"].error.falseSimbols::before {
+	width: 750px;
+}
+
+.editing_good label[for="shop_name"].error.needMore::before {
+	content: 'Не меньше 4-х символов';
+}
+
+.editing_good label[for="shop_name"].error.notAvailble::before {
+	content: 'Такой адрес уже занят';
+}
+
+.editing_good label[for="good_url"].error.falseSimbols::before {
+	content: 'Доступны только буквы латинского алфавита, цифры и знак подчёркивания _';
+}
+
+.editing_good label[for="good_url"].error.needMore::before {
+	content: 'Не меньше 4-х символов';
+}
+
+.editing_good label[for="good_url"].error.notAvailble::before {
+	content: 'Такое адрес уже занят';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.needMore::before {
+	content: 'Не меньше 4-х символов';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.notAvailble::before {
+	content: 'Такой адрес уже занят';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_URLShop label.error.falseSimbols::before {
+	content: 'Доступны только буквы латинского алфавита, цифры и знак подчёркивания _';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.needMore::before {
+	content: 'Не меньше 4-х символов';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.addNewSeller_shopName label.error.notAvailble::before {
+	content: 'Такое название уже занято';
+}
+
+.modalBlock.addNewTable .modal__block .modalBody > div.juridic_name label.error.notAvailble::before {
+	content: 'Такого юридического названия не найдено';
+}

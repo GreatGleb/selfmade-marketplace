@@ -1,0 +1,91 @@
+.mainHtmlContent > h2 {
+    padding: 10px;
+}
+
+.admin-block-left a[href='categories'] .list {
+    background-color: darkgray;
+}
+
+.table_categories {	
+    margin: 68px 15px 15px 15px;
+}
+
+.add_new_categories {	
+    width: 167px;
+    position: absolute;
+    right: 25px;
+    top: 10px;
+    padding: 4px;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.table_categories select {
+	width: 100%;
+}
+
+.editCategory, .saveCategory, .deleteCategory {
+	cursor: pointer;
+	min-width: 130px;
+}
+
+.editCategory:hover svg, .saveCategory:hover svg, .deleteCategory:hover svg {
+	fill: #A83242;
+}
+
+.imageCategoryEdit {
+	cursor: pointer;
+}
+
+.imageCategoryEdit svg {
+	padding-left: 5px;
+}
+
+.imageCategoryEdit:hover svg {
+	fill: #A83242;
+}
+
+.table_categories td .isShow {
+	min-width: 77px;
+}
+
+.add_new_category {	
+    width: 167px;
+    position: absolute;
+    right: 25px;
+    top: 10px;
+    padding: 4px;
+    background-color: #ffffff;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+.modalBlock.addNewTable .modalBody div {
+	width: auto;
+    margin-left: 5px;
+}
+
+.modalBlock.addNewTable .modalBody div input, 
+.modalBlock.addNewTable .modalBody div select {
+    left: 214px;
+}
+
+.modalBlock.addNewTable .modalBody div.isShow {
+    margin-right: 5px;
+    padding-top: 3px;
+    margin-left: 153px;
+	min-width: 86px;
+}
+
+.modalBlock.addNewTable .modalBody div span.imgForNewCategory {
+	margin-left: 96px;
+    cursor: pointer;
+    background-color: #ffeacd;
+    padding: 5px;
+    font-size: 14.5px;
+}
+
+select.add_new_parent_category {
+	width: 223px;
+}

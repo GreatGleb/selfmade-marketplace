@@ -1,0 +1,4570 @@
+8dvtgrfhy16192021-01-11 00:01:12295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg21saterno.ru commission295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg10commission40001400003125275131110103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC5FALSEArray
+(
+    [ORDER_REF] => 6
+    [ORDER_DATE] => 2021-01-11 00:04:37
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] => commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0001
+            [1] => 0000
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 125
+            [1] => 75
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 3
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [PAY_METHOD] => CCVISAMC
+    [DEBUG] => FALSE
+    [TESTORDER] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy16192021-01-11 00:04:37295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg21saterno.ru commission295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg10commission40001400003125275131110103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC5FALSEArray
+(
+    [ORDER_REF] => 6
+    [ORDER_DATE] => 2021-01-11 00:21:35
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => 1000
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [PAY_METHOD] => CCVISAMC
+    [DEBUG] => FALSE
+    [TESTORDER] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy16192021-01-11 00:21:3536 Кофта серая LiZote Pinshu21saterno.ru commission36 Кофта серая LiZote Pinshu10commission40003400004500041000111110103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC5FALSE
+Array
+(
+    [ORDER_REF] => 6
+    [ORDER_DATE] => 2021-01-11 00:32:42
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => 1000
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [PAY_METHOD] => CCVISAMC
+    [DEBUG] => FALSE
+    [TESTORDER] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy16192021-01-11 00:32:4236 Кофта серая LiZote Pinshu21saterno.ru commission36 Кофта серая LiZote Pinshu10commission40003400004500041000111110103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC5FALSE
+Array
+(
+    [ORDER_REF] => 6
+    [ORDER_DATE] => 2021-01-11 00:34:13
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => "1000"
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => "1"
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [PAY_METHOD] => CCVISAMC
+    [DEBUG] => FALSE
+    [TESTORDER] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy16192021-01-11 00:34:1336 Кофта серая LiZote Pinshu21saterno.ru commission36 Кофта серая LiZote Pinshu10commission4000340000450006"1000"113"1"10103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC5FALSE
+Array
+(
+    [ORDER_REF] => 7
+    [ORDER_DATE] => 2021-01-11 00:37:52
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => "1000"
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => "1"
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [PAY_METHOD] => CCVISAMC
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy17192021-01-11 00:37:5236 Кофта серая LiZote Pinshu21saterno.ru commission36 Кофта серая LiZote Pinshu10commission4000340000450006"1000"113"1"10103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC
+Array
+(
+    [ORDER_REF] => 6
+    [ORDER_DATE] => 2021-01-11 00:39:31
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] => commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0001
+            [1] => 0000
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 125
+            [1] => 75
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 3
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [PAY_METHOD] => CCVISAMC
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy16192021-01-11 00:39:31295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg21saterno.ru commission295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg10commission40001400003125275131110103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC
+Array
+(
+    [ORDER_REF] => 8
+    [ORDER_DATE] => 2021-01-11 00:41:27
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => "1000"
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => "1"
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [PAY_METHOD] => CCVISAMC
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy18192021-01-11 00:41:2736 Кофта серая LiZote Pinshu21saterno.ru commission36 Кофта серая LiZote Pinshu10commission4000340000450006"1000"113"1"10103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC
+Array
+(
+    [ORDER_REF] => 9
+    [ORDER_DATE] => 2021-01-11 00:43:39
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => "1000"
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => "1"
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [PAY_METHOD] => CCVISAMC
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy19192021-01-11 00:43:3936 Кофта серая LiZote Pinshu21saterno.ru commission36 Кофта серая LiZote Pinshu10commission4000340000450006"1000"113"1"10103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC
+Array
+(
+    [ORDER_REF] => 10
+    [ORDER_DATE] => 2021-01-11 00:45:16
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => 1000
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [PAY_METHOD] => CCVISAMC
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy210192021-01-11 00:45:1636 Кофта серая LiZote Pinshu21saterno.ru commission36 Кофта серая LiZote Pinshu10commission40003400004500041000111110103NET3NET8hhtyhytj8hhtyhytj3RUB8CCVISAMC
+Array
+(
+    [ORDER_REF] => 11
+    [ORDER_DATE] => 2021-01-11 01:06:58
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => 1000
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Максим
+    [BILL_LNAME] => Урсул
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => +79996511002
+    [BILL_ADDRESS] => Сочи
+    [BILL_CITY] => Сочи
+    [DELIVERY_PHONE] => Максим
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy211192021-01-11 01:06:5836 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4500041000111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 11
+    [ORDER_DATE] => 2021-01-11 18:17:29
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => 1000
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Глеб
+    [BILL_LNAME] => Сугак
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 380931888943
+    [BILL_ADDRESS] => Винницы
+    [BILL_CITY] => Винницы
+    [DELIVERY_PHONE] => Глеб
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy211192021-01-11 18:17:2936 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4500041000111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 11
+    [ORDER_DATE] => 2021-01-12 16:07:31
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] =>  Кофта серая LiZote Pinshu
+            [2] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0001
+            [1] => 0003
+            [2] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] =>  Кофта серая LiZote Pinshu
+            [2] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 125
+            [1] => 5000
+            [2] => 2312
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 3
+            [1] => 1
+            [2] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+            [2] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+            [2] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Чумпеб
+    [BILL_LNAME] => Краснов
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 54357257247
+    [BILL_ADDRESS] => Владиславовка
+    [BILL_CITY] => Владиславовка
+    [DELIVERY_PHONE] => Чумпеб
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy211192021-01-12 16:07:31295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg36 Кофта серая LiZote Pinshu21saterno.ru commission400014000340000295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg36 Кофта серая LiZote Pinshu10commission312545000423121311111010103RUB8CCVISAMC3NET3NET3NET8hhtyhytj8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 12
+    [ORDER_DATE] => 2021-01-12 16:11:25
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => 1000
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => опар
+    [BILL_LNAME] => Лоп
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 657453273
+    [BILL_ADDRESS] => Магадан
+    [BILL_CITY] => Магадан
+    [DELIVERY_PHONE] => опар
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy212192021-01-12 16:11:2536 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4500041000111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 12
+    [ORDER_DATE] => 2021-01-12 16:14:37
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 5000
+            [1] => 3313
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Василиса
+    [BILL_LNAME] => Мариншина
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 37054746784
+    [BILL_ADDRESS] => Ряжск
+    [BILL_CITY] => Ряжск
+    [DELIVERY_PHONE] => Василиса
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy212192021-01-12 16:14:3736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4500043313111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 12
+    [ORDER_DATE] => 2021-01-12 16:34:18
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Браслет деревянный hinty bozji, Cvet: ch
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0002
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Браслет деревянный hinty bozji, Cvet: ch
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 3861
+            [1] => 1791.2
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Алексей
+    [BILL_LNAME] => Рыбкин
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 3809643264337
+    [BILL_ADDRESS] => МП Тракт
+    [BILL_CITY] => МП Тракт
+    [DELIVERY_PHONE] => Алексей
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy212192021-01-12 16:34:1858 Браслет деревянный hinty bozji, Cvet: ch21saterno.ru commission400024000058 Браслет деревянный hinty bozji, Cvet: ch10commission4386161791.2111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 12
+    [ORDER_DATE] => 2021-01-12 16:38:30
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Браслет деревянный hinty bozji, Cvet: ch
+            [1] =>  Кофта серая LiZote Pinshu
+            [2] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0002
+            [1] => 0003
+            [2] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Браслет деревянный hinty bozji, Cvet: ch
+            [1] =>  Кофта серая LiZote Pinshu
+            [2] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 3861
+            [1] => 5000
+            [2] => 4563.2
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+            [2] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+            [2] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+            [2] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => апфв
+    [BILL_LNAME] => Авыф
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 562654343
+    [BILL_ADDRESS] => Магас
+    [BILL_CITY] => Магас
+    [DELIVERY_PHONE] => апфв
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy212192021-01-12 16:38:3058 Браслет деревянный hinty bozji, Cvet: ch36 Кофта серая LiZote Pinshu21saterno.ru commission40002400034000058 Браслет деревянный hinty bozji, Cvet: ch36 Кофта серая LiZote Pinshu10commission438614500064563.21111111010103RUB8CCVISAMC3NET3NET3NET8hhtyhytj8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 1
+    [ORDER_DATE] => 2021-01-22 21:49:56
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0001
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 121
+            [1] => 570.6
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 3
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Рава
+    [BILL_LNAME] => Пиавр
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 380947636532
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [DELIVERY_PHONE] => Рава
+    [DEBUG] => FALSE
+    [BACK_REF] => https://dev.saterno.ru/version2/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy11192021-01-22 21:49:56295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg21saterno.ru commission4000140000295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg10commission31215570.6131110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 1
+    [ORDER_DATE] => 2021-01-22 22:44:48
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1932.6
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Турбе
+    [BILL_LNAME] => Апв
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 43735685638
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [DELIVERY_PHONE] => Турбе
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy11192021-01-22 22:44:4836 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434361932.6111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 1
+    [ORDER_DATE] => 2021-01-24 15:32:55
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0001
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 121
+            [1] => 1191.6
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 3
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Бряжнов
+    [BILL_LNAME] => Виктор
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 37956467465
+    [BILL_ADDRESS] => Краснознаменск
+    [BILL_CITY] => Краснознаменск
+    [DELIVERY_PHONE] => Бряжнов
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy11192021-01-24 15:32:55295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg21saterno.ru commission4000140000295 Шапка BamBum tutu, fvcb: <img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg>, gef: hhh<img style=width: 20px; border-radius: 2px; src=admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg>, ggg: gggg10commission312161191.6131110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 1
+    [ORDER_DATE] => 2021-01-24 16:43:38
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <span>admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg</span>, gef: hhh<span>admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg</span>, ggg: gggg
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0001
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: <span>admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg</span>, gef: hhh<span>admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg</span>, ggg: gggg
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 121
+            [1] => 1144.6
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 3
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Михаил
+    [BILL_LNAME] => Бурунов
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 380967846578
+    [BILL_ADDRESS] => Алейск
+    [BILL_CITY] => Алейск
+    [DELIVERY_PHONE] => Михаил
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy11192021-01-24 16:43:38223 Шапка BamBum tutu, fvcb: <span>admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg</span>, gef: hhh<span>admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg</span>, ggg: gggg21saterno.ru commission4000140000223 Шапка BamBum tutu, fvcb: <span>admin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg</span>, gef: hhh<span>admin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg</span>, ggg: gggg10commission312161144.6131110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 2
+    [ORDER_DATE] => 2021-01-24 17:08:17
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0001
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 121
+            [1] => 1144.6
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 3
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Иф
+    [BILL_LNAME] => Тиб
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 380954877624
+    [BILL_ADDRESS] => Мариинск
+    [BILL_CITY] => Мариинск
+    [DELIVERY_PHONE] => Иф
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy12192021-01-24 17:08:17285 Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg21saterno.ru commission4000140000285 Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg10commission312161144.6131110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 2
+    [ORDER_DATE] => 2021-01-24 18:56:00
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg
+            [1] =>  Кофта серая LiZote Pinshu
+            [2] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0001
+            [1] => 0003
+            [2] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg
+            [1] =>  Кофта серая LiZote Pinshu
+            [2] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 121
+            [1] => 4343
+            [2] => 4697.2
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 3
+            [1] => 1
+            [2] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+            [2] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+            [2] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+            [2] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => h
+    [BILL_LNAME] => h
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 563
+    [BILL_ADDRESS] => Пумалицы
+    [BILL_CITY] => Пумалицы
+    [DELIVERY_PHONE] => h
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy12192021-01-24 18:56:00285 Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg36 Кофта серая LiZote Pinshu21saterno.ru commission400014000340000285 Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg36 Кофта серая LiZote Pinshu10commission31214434364697.21311111010103RUB8CCVISAMC3NET3NET3NET8hhtyhytj8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 2
+    [ORDER_DATE] => 2021-01-29 15:26:54
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0001
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 121
+            [1] => 321
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 3
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => bfdbdfb
+    [BILL_LNAME] => vfdf
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 5426
+    [BILL_ADDRESS] => Грозный
+    [BILL_CITY] => Грозный
+    [DELIVERY_PHONE] => bfdbdfb
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy12192021-01-29 15:26:54285 Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg21saterno.ru commission4000140000285 Шапка BamBum tutu, fvcb: img style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse_150x150.jpg, gef: hhhimg style=idth: 20px; border-radius: 2px;src=dmin/App/templates/files/img/product-attributes/Lighthouse(3)_150x150.jpg, ggg: gggg10commission31213321131110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 15:39:57
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1467
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => павв
+    [BILL_LNAME] => Авгв
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 43
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => павв
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 15:39:5736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341467111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 15:44:29
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1400
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => f
+    [BILL_LNAME] => f
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 43
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => f
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 15:44:2936 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341400111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 15:51:20
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 2043
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => аа
+    [BILL_LNAME] => а
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 434
+    [BILL_ADDRESS] => Севастополь
+    [BILL_CITY] => Севастополь
+    [DELIVERY_PHONE] => аа
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 15:51:2036 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434342043111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 16:11:37
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1616
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => ввы
+    [BILL_LNAME] => ув
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 332
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => ввы
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 16:11:3736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341616111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 16:17:54
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1616
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => ывап
+    [BILL_LNAME] => пав
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => пывы
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => ывап
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 16:17:5436 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341616111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 16:19:58
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1616
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => вы
+    [BILL_LNAME] => ву
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 34
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => вы
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 16:19:5836 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341616111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 16:21:37
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1616
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => аыв
+    [BILL_LNAME] => авы
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 423423
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => аыв
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 16:21:3736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341616111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 16:23:17
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1616
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => кпупк
+    [BILL_LNAME] => кпуп
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 32
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => кпупк
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 16:23:1736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341616111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 16:25:17
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1400
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => пвав
+    [BILL_LNAME] => апв
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 456
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => пвав
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 16:25:1736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341400111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 16:43:35
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1400
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => rteher
+    [BILL_LNAME] => gfhrfeh
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 546
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => rteher
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 16:43:3536 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341400111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 17:14:58
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1616
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => hg
+    [BILL_LNAME] => thh
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 656
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => hg
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 17:14:5836 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341616111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 17:20:30
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1616
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => hsfds
+    [BILL_LNAME] => hvv
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 745
+    [BILL_ADDRESS] => Краснодар
+    [BILL_CITY] => Краснодар
+    [DELIVERY_PHONE] => hsfds
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 17:20:3036 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341616111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 19:29:31
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1520
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => авпав
+    [BILL_LNAME] => Авы
+    [BILL_EMAIL] => fsdgr@mail.com
+    [BILL_PHONE] => 56373543
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [DELIVERY_PHONE] => авпав
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 19:29:3136 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341520111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 19:32:53
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 5250
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Авыы
+    [BILL_LNAME] => Куапр
+    [BILL_EMAIL] => fsda@mail.ru
+    [BILL_PHONE] => 543264262
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [DELIVERY_PHONE] => Авыы
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 19:32:5336 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434345250111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 19:39:16
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1795
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => ывпце
+    [BILL_LNAME] => Аыв
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 4563735
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [DELIVERY_PHONE] => ывпце
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 19:39:1636 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341795111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 19:42:12
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 2359
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => ывпцец
+    [BILL_LNAME] => Аыц
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 45637357
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [DELIVERY_PHONE] => ывпцец
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 19:42:1236 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434342359111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 19:45:10
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 2359
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => Мпву
+    [BILL_LNAME] => Муать
+    [BILL_EMAIL] => dsfde@mail.ru
+    [BILL_PHONE] => 1255435433
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [DELIVERY_PHONE] => Мпву
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 19:45:1036 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434342359111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 20:07:42
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1961
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => gfgfgf
+    [BILL_LNAME] => fdg
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 4325532
+    [BILL_ADDRESS] => Альметьевск
+    [BILL_CITY] => Альметьевск
+    [DELIVERY_PHONE] => gfgfgf
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 20:07:4236 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341961111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 20:15:47
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 2368
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => fdbfdb
+    [BILL_LNAME] => ffbgfdb
+    [BILL_EMAIL] => b32fdbd@mail.com
+    [BILL_PHONE] => 43436436
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [DELIVERY_PHONE] => fdbfdb
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 20:15:4736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434342368111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 20:22:37
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 2368
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => fdbfdb 
+    [BILL_LNAME] => ffbgfdb 
+    [BILL_EMAIL] => b32fdbd@mail.com
+    [BILL_PHONE] => 43436436 
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [DELIVERY_PHONE] => fdbfdb 
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 20:22:3736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434342368111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 20:28:42
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 3593
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => bfdfd
+    [BILL_LNAME] => fbvd
+    [BILL_EMAIL] => fww@gmail.com
+    [BILL_PHONE] => 6543634
+    [BILL_ADDRESS] => Киевский
+    [BILL_CITY] => Киевский
+    [BILL_COUNTRYCODE] => RU
+    [DELIVERY_PHONE] => bfdfd
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 20:28:4236 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434343593111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj2RU
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 20:30:10
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1863
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => bfdfd 
+    [BILL_LNAME] => fbvd 
+    [BILL_EMAIL] => fww@gmail.com
+    [BILL_PHONE] => 6543634 
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [BILL_COUNTRYCODE] => RU
+    [DELIVERY_PHONE] => bfdfd 
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 20:30:1036 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341863111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj2RU
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 20:34:06
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 2101
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => bfdfd
+    [BILL_LNAME] => fbvd
+    [BILL_EMAIL] => fww@gmail.com
+    [BILL_PHONE] => 6543634
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [BILL_COUNTRYCODE] => RU
+    [DELIVERY_PHONE] => bfdfd
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 20:34:0636 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434342101111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj2RU
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 20:43:44
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1577
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => bfdfds
+    [BILL_LNAME] => fbvd
+    [BILL_EMAIL] => fww@gmail.com
+    [BILL_PHONE] => 65436342
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [BILL_COUNTRYCODE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 20:43:4436 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341577111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj2RU
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 20:55:44
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1863
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => ааа
+    [BILL_LNAME] => аа
+    [BILL_EMAIL] => ghdsx@mgf.yt
+    [BILL_PHONE] => 324
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [BILL_COUNTRYCODE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 20:55:4436 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341863111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj2RU
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 21:00:59
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1575
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => аа
+    [BILL_LNAME] => а
+    [BILL_EMAIL] => ghdsx@mgf.yt
+    [BILL_PHONE] => 328
+    [BILL_ADDRESS] => Санкт-Петербург
+    [BILL_CITY] => Санкт-Петербург
+    [BILL_COUNTRYCODE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 21:00:5936 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341575111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj2RU
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 21:08:06
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 6946
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [LANGUAGE] => RU
+    [BILL_FNAME] => аав
+    [BILL_LNAME] => ав
+    [BILL_EMAIL] => ghdsx@mgf.yt
+    [BILL_PHONE] => 3284
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [BILL_COUNTRYCODE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 21:08:0636 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434346946111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj2RU
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 21:41:08
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1577
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => u
+    [BILL_LNAME] => u
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 434334
+    [BILL_ADDRESS] => Альметьевск
+    [BILL_CITY] => Альметьевск
+    [BILL_COUNTRYCODE] => RU
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 21:41:0836 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341577111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj2RU
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 21:47:32
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 9489
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => uffff
+    [BILL_LNAME] => ufff
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 434334455
+    [BILL_ADDRESS] => Амурск
+    [BILL_CITY] => Амурск
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 21:47:3236 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434349489111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 21:49:17
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1520
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => uffff4
+    [BILL_LNAME] => ufff4
+    [BILL_EMAIL] => fdsh@mdjg.ru
+    [BILL_PHONE] => 4343344555
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 21:49:1736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341520111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 21:52:34
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1863
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => uffff
+    [BILL_LNAME] => ufff
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 434334455
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 21:52:3436 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341863111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 22:06:34
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1863
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => uffffа
+    [BILL_LNAME] => ufffа
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 4343344557
+    [BILL_ADDRESS] => Москва
+    [BILL_CITY] => Москва
+    [BILL_COUNTRYCODE] => RU
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 22:06:3436 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341863111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj2RU
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-29 22:10:12
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 3991
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => рпа
+    [BILL_LNAME] => пав
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 7556767
+    [BILL_ADDRESS] => Новозыбков
+    [BILL_CITY] => Новозыбков
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-29 22:10:1236 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434343991111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-30 14:53:13
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => Маит
+    [BILL_LNAME] => Кариав
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 24546363
+    [BILL_ADDRESS] => 
+    [BILL_CITY] => 
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-30 14:53:1336 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission443430111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-30 14:55:01
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => Маи
+    [BILL_LNAME] => Кариа
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 2454636
+    [BILL_ADDRESS] => 
+    [BILL_CITY] => 
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-30 14:55:0136 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission443430111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-30 15:00:15
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 869
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => пвавп
+    [BILL_LNAME] => Арке
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 54574573
+    [BILL_ADDRESS] => 
+    [BILL_CITY] => 
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-30 15:00:1536 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission443433869111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-30 15:02:33
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 869
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => пвавп
+    [BILL_LNAME] => Арк
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 5457457
+    [BILL_ADDRESS] => 
+    [BILL_CITY] => 
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-30 15:02:3336 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission443433869111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-30 15:15:51
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 869
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => fdfdhfdhfdh
+    [BILL_LNAME] => bdb
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 54655
+    [BILL_ADDRESS] => 
+    [BILL_CITY] => 
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-30 15:15:5136 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission443433869111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-30 15:27:42
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 869
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => паыа
+    [BILL_LNAME] => Дапр
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 54457755
+    [BILL_ADDRESS] => 
+    [BILL_CITY] => 
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-30 15:27:4236 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission443433869111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 3
+    [ORDER_DATE] => 2021-01-30 16:17:13
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 869
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => fghdfhhdfdfh
+    [BILL_LNAME] => fdbfdgh
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 754756565
+    [BILL_ADDRESS] => Альметьевск
+    [BILL_CITY] => Альметьевск
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy13192021-01-30 16:17:1336 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission443433869111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 4
+    [ORDER_DATE] => 2021-01-30 16:31:37
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 869
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => аврваавр
+    [BILL_LNAME] => Артап
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 3253552335
+    [BILL_ADDRESS] => 
+    [BILL_CITY] => 
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy14192021-01-30 16:31:3736 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission443433869111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 5
+    [ORDER_DATE] => 2021-01-30 16:35:59
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1845
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => jgfgfjjgfjgf
+    [BILL_LNAME] => gfjgjfgjgfj
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => 657547547
+    [BILL_ADDRESS] => Альметьевск
+    [BILL_CITY] => Альметьевск
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy15192021-01-30 16:35:5936 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341845111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj
+Array
+(
+    [ORDER_REF] => 6
+    [ORDER_DATE] => 2021-01-30 16:39:51
+    [ORDER_PNAME[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => saterno.ru commission
+        )
+
+    [ORDER_PCODE[]] => Array
+        (
+            [0] => 0003
+            [1] => 0000
+        )
+
+    [ORDER_PINFO[]] => Array
+        (
+            [0] =>  Кофта серая LiZote Pinshu
+            [1] => commission
+        )
+
+    [ORDER_PRICE[]] => Array
+        (
+            [0] => 4343
+            [1] => 1543
+        )
+
+    [ORDER_QTY[]] => Array
+        (
+            [0] => 1
+            [1] => 1
+        )
+
+    [ORDER_VAT[]] => Array
+        (
+            [0] => 0
+            [1] => 0
+        )
+
+    [PRICES_CURRENCY] => RUB
+    [PAY_METHOD] => CCVISAMC
+    [ORDER_PRICE_TYPE[]] => Array
+        (
+            [0] => NET
+            [1] => NET
+        )
+
+    [ORDER_MPLACE_MERCHANT[]] => Array
+        (
+            [0] => hhtyhytj
+            [1] => hhtyhytj
+        )
+
+    [BILL_FNAME] => jghjghjjgf
+    [BILL_LNAME] => jjjjjg
+    [BILL_EMAIL] => 
+    [BILL_PHONE] => gfjgjfgfjgfj
+    [BILL_ADDRESS] => Псков
+    [BILL_CITY] => Псков
+    [LANGUAGE] => RU
+    [DEBUG] => FALSE
+    [BACK_REF] => https://saterno.ru/successefulOrder
+    [LU_ENABLE_TOKEN] => 1
+    [LU_TOKEN_TYPE] => PAY_BY_CLICK
+)
+
+8dvtgrfhy16192021-01-30 16:39:5136 Кофта серая LiZote Pinshu21saterno.ru commission400034000036 Кофта серая LiZote Pinshu10commission4434341543111110103RUB8CCVISAMC3NET3NET8hhtyhytj8hhtyhytj

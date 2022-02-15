@@ -1,0 +1,216 @@
+﻿<footer class="footer-container typefooter-1">
+	<!-- FOOTER TOP -->
+		<div class="footer-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+				<div class="module social_block col-md-3 col-sm-12 col-xs-12">
+    <ul class="social-block ">
+<span>Мы в социальных сетях</span>
+		<li class="facebook"><a class="_blank" href="https://www.facebook.com/saterno.ru" target="_blank"><i class="fa fa-facebook"></i></a></li>
+
+				<li class="twitter"><a class="_blank" href="https://www.instagram.com/saterno.ru/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+<li class="rss"><a class="_blank" href="https://vk.com/saterno" target="_blank"><i class="fa fa-vk"></i></a></li>
+	
+
+		<li class="telegram"><a class="_blank" href="https://t.me/joinchat/FXdsqPrs4yNrWDEE" target="_blank">
+    	        <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+                 width="17px" height="15.56px" style="margin-bottom: -2px;" viewBox="0 0 60.000000 50.000000"
+                 preserveAspectRatio="xMidYMid meet">
+                	<g transform="translate(0.000000,50.000000) scale(0.100000,-0.100000)"
+                	fill="#fff" stroke="none">
+                	<path d="M345 414 c-304 -117 -346 -135 -342 -148 2 -6 37 -22 79 -35 l75 -24
+                	28 -88 c17 -52 34 -89 42 -89 7 0 30 16 52 35 21 19 41 35 44 35 4 0 39 -23
+                	78 -52 55 -41 74 -50 87 -42 11 8 31 77 64 230 26 120 47 228 45 239 -1 11 -9
+                	21 -17 22 -8 1 -114 -36 -235 -83z m93 -61 c-29 -28 -80 -74 -113 -103 -33
+                	-29 -67 -59 -75 -66 -8 -8 -17 -35 -20 -61 l-6 -48 -23 68 c-13 38 -19 73 -15
+                	77 17 17 297 190 301 186 2 -2 -20 -26 -49 -53z"/>
+                	</g>
+                </svg>
+        </a></li>
+
+			</ul></div>
+<div class="module news-letter col-md-9 col-sm-12 col-xs-12">
+    <div class="newsletter">
+						<div class="title-block">
+						<div class="page-heading">
+				ПОДПИСЫВАЙТЕСЬ НА НАШУ РАССЫЛКУ			</div>
+						<div class="pre-text">
+					Новости и акции только для своих			
+			</div>
+		</div>
+		<div class="block_content">
+			<form method="post" name="signup" id="signup" class="btn-group form-inline signup">
+				<div class="form-group required send-mail">
+					<div class="input-box">
+						<input type="email" placeholder="Ваш электронный адрес..." value="" class="form-control" id="txtemail" name="txtemail" size="55">
+					</div>
+					<div class="subcribe">
+						<button class="btn btn-default btn-lg" type="submit" onclick="return subscribe_newsletter();" name="submit">
+							Подписывайтеся						</button>
+					</div>
+				</div>
+			</form>
+		</div> <!--/.modcontent-->
+		    </div>
+<script type="text/javascript">
+    function subscribe_newsletter()
+    {
+        var emailpattern = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+        var email = $('#txtemail').val();
+        var d = new Date();
+        var createdate = d.getFullYear() + '-' + (d.getMonth()+1) + '-' + d.getDate() + ' ' + d.getHours() + ':' + d.getMinutes() + ':' + d.getSeconds();
+        var status   = 0;
+        var dataString = 'email='+email+'&createdate='+createdate+'&status='+status;
+        if(email != "")
+        {
+            if(!emailpattern.test(email))
+            {
+                $('.show-error').remove();
+                $('.send-mail').after('<span class="show-error" style="color: red;margin-left: 10px"> Invalid Email </span>')
+                return false;
+            }
+            else
+            {
+                $.ajax({
+                    url: 'index.php?route=extension/module/so_newletter_custom_popup/newsletter',
+                    type: 'post',
+                    data: dataString,
+                    dataType: 'json',
+                    success: function(json) {
+                        $('.show-error').remove();
+                        if(json.message == "Subscription Successfull") {
+                            $('.send-mail').after('<span class="show-error" style="color: #003bb3;margin-left: 10px"> ' + json.message + '</span>');
+                            setTimeout(function () {
+                                var this_close = $('.popup-close');
+                                this_close.parent().css('display', 'none');
+                                this_close.parents().find('.so_newletter_custom_popup_bg').removeClass('popup_bg');
+                            }, 3000);
+
+                        }else{
+                            $('.send-mail').after('<span class="show-error" style="color: red;margin-left: 10px"> ' + json.message + '</span>');
+                        }
+                         var x = document.getElementsByClassName('signup');
+                        for (i = 0; i < x.length; i++) {
+                        x[i].reset();
+                        }
+                    }
+                });
+                return false;
+            }
+        }
+        else
+        {
+            alert("Email Is Require");
+            $(email).focus();
+            return false;
+        }
+    }
+</script>
+</div>
+
+				</div>
+			</div>
+		</div> 
+	</div>
+		<!-- FOOTER CENTER -->
+	<div class="footer-center">
+		<div class="container content">
+			<div class="row">
+				<!-- BOX INFO -->
+								<div class="col-md-3 col-sm-6 col-xs-12 collapsed-block footer-links box-footer">
+					<div class="module ">
+    <div class="content-block-footer">
+        <h3 class="modtitle">Помощь покупателю</h3>
+	<ul class="menu">
+             <li style="line-height: 32px;"><a href="/payment">Оплата банковской картой</a></li>
+             <li style="line-height: 32px;"><a href="/online-payment-guarantee">Гарантия онлайн платежей</a></li>
+             <li style="line-height: 32px;"><a href="/delivery">Доставка товара</a></li>
+             <li style="line-height: 32px;"><a href="/garantiya">Гарантия на товар</a></li>
+             <li style="line-height: 32px;"><a href="/terms">Возврат / обмен товара</a></li>
+        </ul>
+</div></div>				</div>
+								<!-- BOX ACCOUT -->
+				 <div class="col-md-3 col-sm-6 box-account box-footer">
+					<div class="module clearfix">
+						<h3 class="modtitle">Помощь поставщику</h3>
+						<div class="modcontent">
+							<ul class="menu">
+								<li><a href="/cooperation">Как стать поставщиком</a></li>
+								<li><a href="/faq">Часто задаваемые вопросы</a></li>
+								<li><a href="/foreign-suppliers">Иностранным поставщикам</a></li>
+								<li><a href="https://dev.saterno.ru/index.php?route=product/manufacturer">Наши магазины</a></li>
+							<li><a href="http://studio.saterno.ru/">Дополнительные услуги Saterno</a></li></ul>
+						</div>
+					</div>
+				</div>
+				<!-- BOX INFOMATION -->
+								<div class="col-md-3 col-sm-6 box-information box-footer">
+					<div class="module clearfix">
+						<h3 class="modtitle">Компания</h3>
+						<div class="modcontent">
+							<ul class="menu">
+																<li><a href="/about">О компании</a></li>
+																<li><a href="/requisites">Реквизиты</a></li>
+																<li><a href="/contacts">Контакты</a></li>
+																<li><a href="https://rabota.saterno.ru/">Вакансии</a></li>
+																<li><a href="http://100gostey.forum24.ru/">Отзывы</a></li>
+															</ul>
+						</div>
+					</div>
+				</div>
+								<!-- BOX ABOUT -->
+								<div class="col-md-3  col-sm-6 collapsed-block box-footer">
+					<div class="module ">
+    <h4 class="modtitle">На связи 24/7</h4>
+<div class="modcontent">
+<ul>
+<li><h3 style="margin-bottom: 5px; font-size: 16px;"><img src="/App/templates/index_files/whatsapp.png" alt="Payment" style="width: 35px;margin-right: 10px;">+7-918-608-69-29</h3></li>
+<li><h3 style="font-size: 16px;"><img src="/App/templates/index_files/telephone.png" alt="Payment" style="width: 35px;margin-right: 7px;">8 (862) 231-68-77</h3></li>
+<li><a href="/contact-with-us"><h3 style="font-size: 16px; margin-bottom: 10px;">Форма обратной связи</h3></a></li>
+</ul>	
+
+Поделитесь сайтом с друзьями
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+ym(49389115, "init", {
+clickmap:true,
+trackLinks:true,
+accurateTrackBounce:true,
+webvisor:true,
+ecommerce:"dataLayer"
+});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/49389115" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="https://yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="collections,vkontakte,facebook,odnoklassniki,moimir" style="margin-bottom: 6px;"></div>
+
+<span>Мы принимаем к оплате</span>
+	<ul class="payment-method" style="padding-top: 5px; margin-left: -14px;"><li style="margin-right: 0;"><img src="/App/templates/index_files/logo-mastercard.png" alt="Payment" style="width: 68px;"></li>
+		<li style="margin-right: 0;"><img src="/App/templates/index_files/logo-bank-mir.png" alt="Payment" style="width: 68px;"></li>
+		<li style="margin-right: 0;"><img src="/App/templates/index_files/logo-visa.png" alt="Payment" style="width: 68px;"></li>
+	</ul>
+</div></div>				</div>
+							</div>
+		</div>
+	</div>
+				
+	<!-- FOOTER BOTTOM -->
+	<div class="footer-bottom ">
+		<div class="container">
+			<div class="row">
+								<div class="col-sm-12">
+					Saterno. Sugak Gleb © 2016 - 2020. All Rights Reserved. <a href="/privacy">Согласие на обработку данных </a><a href="/sitemap">Карта сайта</a>				</div>
+
+				
+			</div>
+		</div>
+	</div>
+</footer>

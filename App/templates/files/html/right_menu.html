@@ -1,0 +1,186 @@
+﻿<div id="so-groups" class="right so-groups-sticky hidden-xs" style="top: 200px">
+	<a class="sticky-categories" data-target="popup" data-popup="#popup-categories"><span>Категории</span><i class="fa fa-align-justify"></i></a>
+	<a class="sticky-mycart toggleModal1" data-target="popup" data-popup="#popup-mycart"><span>Корзина</span><i class="fa fa-shopping-cart"></i></a>
+	<a class="sticky-myaccount" href="/account"><span>Учётная запись</span><i class="fa fa-user"></i></a><!-- data-target="popup" data-popup="#popup-myaccount" -->
+	<a class="sticky-mysearch" data-target="popup" data-popup="#popup-mysearch"><span>Поиск</span><i class="fa fa-search"></i></a>
+	<a class="sticky-recent" data-target="popup" data-popup="#popup-recent"><span>Недавний просмотр</span><i class="fa fa-recent"></i></a>
+	<a class="sticky-backtop" data-target="scroll" data-scroll="html"><span>Перейти наверх</span><i class="fa fa-angle-double-up"></i></a>
+	
+	<div class="popup popup-categories popup-hidden" id="popup-categories">
+		<div class="popup-screen">
+			<div class="popup-position">
+				<div class="popup-container popup-small">
+					<div class="popup-header">
+						<span><i class="fa fa-align-justify"></i>Все категории</span>
+						<a class="popup-close" data-target="popup-close" data-popup-close="#popup-categories">×</a>
+					</div>
+					<div class="popup-content">
+						<div class="nav-secondary">
+							<ul>
+								<?php foreach($categories as $category) {
+									if(sizeof($category->categories) < 1) { ?>
+										<li>
+											<a href="categories/<?php echo $category->id ?>">
+												<i class="fa fa-chevron-down nav-arrow"></i><?php echo $category->name ?>
+											</a>
+										</li>
+									<?php } else { ?>
+										<li>
+											<span class="nav-action">
+												<i class="fa fa-plus more"></i>
+												<i class="fa fa-minus less"></i>
+											</span>
+											<a href="categories/<?php echo $category->id ?>">
+												<i class="fa fa-chevron-down nav-arrow"></i><?php echo $category->name ?>
+											</a>
+												<ul class="level-2">
+													<?php foreach($category->categories as $childCategory) { ?>
+														<li>
+															<a href="categories/<?php echo $childCategory->id ?>">
+																<i class="fa fa-chevron-right flip nav-arrow"></i><?php echo $childCategory->name ?>
+															</a>
+														</li>
+													<?php } ?>
+												</ul>
+										</li>
+									<?php } ?>
+								<?php } ?>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="popup popup-myaccount popup-hidden" id="popup-myaccount">
+		<div class="popup-screen">
+			<div class="popup-position">
+				<div class="popup-container popup-small">
+					<div class="popup-html">
+						<div class="popup-header">
+							<span><i class="fa fa-user"></i>Моя учётная запись</span>
+							<a class="popup-close" data-target="popup-close" data-popup-close="#popup-myaccount">×</a>
+						</div>
+						<div class="popup-content">
+							<div class="form-content">
+								<div class="row space">
+									<div class="col col-sm-12">
+										<div class="form-box">
+											<div class="hr show"></div>
+										</div>
+									</div>
+									<div class="col col-sm-4 col-xs-6 txt-center">
+										<div class="form-box">
+											<a class="account-url" href="https://dev.saterno.ru/index.php?route=account/order">
+												<span class="ico ico-32 ico-sm"><i class="fa fa-history"></i></span><br>
+												<span class="account-txt">История заказов</span>
+											</a>
+										</div>
+									</div>
+									<div class="col col-sm-4 col-xs-6 txt-center">
+										<div class="form-box">
+											<a class="account-url" href="https://dev.saterno.ru/index.php?route=checkout/cart">
+												<span class="ico ico-32 ico-sm"><i class="fa fa-shoppingcart"></i></span><br>
+												<span class="account-txt">Корзина покупок</span>
+											</a>
+										</div>
+									</div>
+									<div class="col col-sm-4 col-xs-6 txt-center">
+										<div class="form-box">
+											<a class="account-url" href="https://dev.saterno.ru/index.php?route=account/register">
+												<span class="ico ico-32 ico-sm"><i class="fa fa-register"></i></span><br>
+												<span class="account-txt">Регистрация</span>
+											</a>
+										</div>
+									</div>
+									<div class="col col-sm-4 col-xs-6 txt-center">
+										<div class="form-box">
+											<a class="account-url" href="https://dev.saterno.ru/index.php?route=account/account">
+												<span class="ico ico-32 ico-sm"><i class="fa fa-account"></i></span><br>
+												<span class="account-txt">Учётная запись</span>
+											</a>
+										</div>
+									</div>
+									<div class="col col-sm-4 col-xs-6 txt-center">
+										<div class="form-box">
+											<a class="account-url" href="https://dev.saterno.ru/index.php?route=account/download">
+												<span class="ico ico-32 ico-sm"><i class="fa fa-download"></i></span><br>
+												<span class="account-txt">Адреса доставки</span>
+											</a>
+										</div>
+									</div>
+									<div class="col col-sm-4 col-xs-6 txt-center">
+										<div class="form-box">
+											<a class="account-url" href="https://dev.saterno.ru/index.php?route=account/login">
+												<span class="ico ico-32 ico-sm"><i class="fa fa-login"></i></span><br>
+												<span class="account-txt">Войти</span>
+											</a>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="clear"></div>
+						</div>					
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="popup popup-mysearch popup-hidden" id="popup-mysearch">
+		<div class="popup-screen">
+			<div class="popup-position">
+				<div class="popup-container popup-small">
+					<div class="popup-html">
+						<div class="popup-header">
+							<span><i class="fa fa-search"></i>Поиск</span>
+							<a class="popup-close" data-target="popup-close" data-popup-close="#popup-mysearch">×</a>
+						</div>
+						<div class="popup-content">
+							<div class="form-content">
+								<div class="row space">
+									<div class="col">
+										<div class="form-box">
+											<input type="text" name="search" value="" placeholder="Поиск" id="input-search" class="field">
+											<i class="fa fa-search sbmsearch"></i>
+										</div>
+									</div>
+									<div class="col">
+										<div class="form-box">
+											<button type="button" id="button-search" class="btn button-search">Поиск</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="popup popup-recent popup-hidden" id="popup-recent">
+		<div class="popup-screen">
+			<div class="popup-position">
+				<div class="popup-container popup-small">
+					<div class="popup-html">
+						<div class="popup-header">
+							<span><i class="fa fa-recent"></i>Последние просмотренные товары</span>
+							<a class="popup-close" data-target="popup-close" data-popup-close="#popup-recent">×</a>
+						</div>
+						<div class="popup-content">
+							<div class="form-content">
+								<div class="row space">
+																			<div class="col col-xs-12">Has no content to show !</div>
+																	</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

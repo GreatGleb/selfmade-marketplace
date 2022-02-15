@@ -1,0 +1,124 @@
+.calendar {
+    display: inline-grid;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    padding: 12px;
+    border-radius: 5px;
+    box-shadow: 0px 40px 30px -20px rgba(0, 0, 0, 0.3);
+    font-family: 'Questrial', sans-serif;
+}
+
+.calendar .month-switcher {
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.calendar .month-switcher button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #0a3d62;
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    transition-duration: 0.2s;
+    position: relative;
+	padding: 10px;
+	cursor: pointer;
+	outline: none;
+	border: none;
+	background: none;
+}
+
+.calendar .month-switcher button:hover {
+	 background: #eee;
+}
+
+.calendar .prev::after {
+	content: '';
+	width: 10px;
+	height: 10px;
+	border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    transform: rotate(-45deg);
+}
+
+.calendar .next::after {
+	content: '';
+	width: 10px;
+	height: 10px;
+	border-top: 2px solid #000;
+	border-right: 2px solid #000;
+	transform: rotate(45deg);
+}
+
+.calendar .month-switcher .year {
+	 font-weight: 600;
+	 margin-left: 10px;
+}
+
+.calendar .days {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(7, 1fr);
+    color: #999;
+    font-weight: 600;
+}
+
+.calendar .days span {
+    width: 40px;
+    justify-self: center;
+    align-self: center;
+    text-align: center;
+}
+
+ .calendar .dates {
+	 display: grid;
+	 grid-template-columns: repeat(7, 1fr);
+}
+
+.calendar .dates button {
+    cursor: pointer;
+    outline: 0;
+    border: 0;
+    background: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    justify-self: center;
+    align-self: center;
+    width: 29px;
+    height: 20px;
+    border-radius: 50px;
+    margin: 2px;
+    transition-duration: 0.2s;
+}
+
+.calendar .dates button.today {
+    position: relative;
+}
+
+.calendar .dates button.today:after {
+    content: '';
+    box-shadow: inset 0px 0px 0px 2px #0a3d62;
+    height: 29px;
+    width: 29px;
+    border-radius: 50px;
+    position: absolute;
+    left: 0;
+    top: -5px;
+}
+
+.calendar .dates button:hover {
+	 background: #eee;
+}
+ .calendar .dates button:focus {
+	 background: #0a3d62;
+	 color: #fff;
+	 font-weight: 600;
+}

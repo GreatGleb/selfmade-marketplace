@@ -1,0 +1,33 @@
+.modalBlock.addNewTable  .modalBody {
+  padding-bottom: 16px;
+  background-color: #fff;
+  min-height: 184px;
+}
+
+.modalBlock.addNewTable  .modalBody  div {
+    width: 305px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+	position: relative;
+    padding-top: 12px;
+}
+
+.modalBlock.addNewTable  .modalBody  div input, 
+.modalBlock  .modalBody  div select,
+.modalBlock.addNewTable  .modalBody  div textarea {
+	position: absolute;
+	right: 0;
+    height: 23px;
+    font-size: 18px;
+}
+.modalBlock.addNewTable .modalBody  div label {
+    font-size: 18px;	
+}
+
+.save-new-table {
+    position: absolute;
+    top: 9px;
+    margin-left: 286px;
+	cursor: pointer;
+}
